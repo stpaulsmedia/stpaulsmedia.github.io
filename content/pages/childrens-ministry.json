@@ -1,0 +1,246 @@
+{
+ "title": "Children's Ministry",
+ "slug": "childrens-ministry",
+ "description": "St. Paul's strives to provide the best Christian education to our youngest members and our community. We believe that a relationship with God helps build a strong foundation in the life of one's child. Find out more about our children's programs!",
+ "sections": [
+  {
+   "id": "s0252",
+   "theme": "dark",
+   "blocks": [
+    {
+     "id": "m0253",
+     "type": "text",
+     "props": {
+      "html": "<h1>Children’s Ministry at St. Paul’s UCC</h1><h3>Our children’s ministry is a safe, welcoming place where kids can learn, ask questions, and grow in their faith. We want every child to feel loved, cared for, and valued just as they are.</h3>"
+     },
+     "style": {},
+     "d": {
+      "x": 0,
+      "y": 0,
+      "w": 21,
+      "h": 7
+     },
+     "m": null
+    }
+   ],
+   "minHeight": 55
+  },
+  {
+   "id": "s0254",
+   "theme": "white",
+   "blocks": [
+    {
+     "id": "m0255",
+     "type": "text",
+     "props": {
+      "html": "<p><strong>Our version of Sunday School!</strong></p><p>Kids begin Sunday worship services with their families in the main sanctuary and are invited to Kid’s Church during the service, usually around announcements. In age-appropriate groups, they’ll have fun learning about the Bible through stories, activities, games, and play; all in a safe and welcoming space.</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 25,
+      "w": 9,
+      "h": 7
+     },
+     "m": null
+    },
+    {
+     "id": "m0256",
+     "type": "image",
+     "props": {
+      "src": "/media/img-3590.jpg",
+      "alt": "",
+      "fit": "cover",
+      "href": "",
+      "caption": "",
+      "focus": "50% 50%"
+     },
+     "style": {},
+     "d": {
+      "x": 11,
+      "y": 19,
+      "w": 13,
+      "h": 17
+     },
+     "m": null
+    },
+    {
+     "id": "m0257",
+     "type": "text",
+     "props": {
+      "html": "<h2>Kid’s Church</h2>"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 22,
+      "w": 9,
+      "h": 3
+     },
+     "m": null
+    },
+    {
+     "id": "m0258",
+     "type": "text",
+     "props": {
+      "html": "<p>Our nursery provides loving, attentive care for children from birth through age 3 every Sunday during services. You’ll find us in the Narthex, where our nursery staff will welcome you and your child and help you get settled before you head into worship.</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 13,
+      "y": 7,
+      "w": 10,
+      "h": 4
+     },
+     "m": null
+    },
+    {
+     "id": "m0259",
+     "type": "image",
+     "props": {
+      "src": "/media/sock-hop-15.jpg",
+      "alt": "",
+      "fit": "cover",
+      "href": "",
+      "caption": "",
+      "focus": "50% 50%"
+     },
+     "style": {},
+     "d": {
+      "x": 0,
+      "y": 0,
+      "w": 12,
+      "h": 17
+     },
+     "m": null
+    },
+    {
+     "id": "m0260",
+     "type": "text",
+     "props": {
+      "html": "<h2>Nursery</h2>"
+     },
+     "style": {},
+     "d": {
+      "x": 13,
+      "y": 4,
+      "w": 10,
+      "h": 3
+     },
+     "m": null
+    }
+   ]
+  },
+  {
+   "id": "s0261",
+   "theme": "light",
+   "blocks": [
+    {
+     "id": "m0262",
+     "type": "text",
+     "props": {
+      "html": "<h2>Vacation Bible School</h2><p>Every summer, we come together for Vacation Bible School! VBS is a fun-filled week where kids can learn, explore, play, and grow in their faith. Through Bible stories, music, games, crafts, snacks, and science, children get to experience the message of Jesus in ways that are engaging and meaningful. VBS is a welcoming and safe space where every child can be themselves, make new friends, and feel loved and cared for. Keep an eye on our events page for dates, registration information, and details about our next VBS!</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 0,
+      "w": 18,
+      "h": 7
+     },
+     "m": null
+    },
+    {
+     "id": "m0263",
+     "type": "button",
+     "props": {
+      "label": "EVENTS",
+      "href": "/events",
+      "variant": "primary",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 7,
+      "w": 3,
+      "h": 3
+     },
+     "m": null
+    },
+    {
+     "id": "m0264",
+     "type": "video",
+     "props": {
+      "url": "https://www.youtube.com/watch?v=TXnZ1N1XPcc",
+      "title": "VBS 2025 Road Trip"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 12,
+      "w": 8,
+      "h": 10
+     },
+     "m": null
+    },
+    {
+     "id": "m0265",
+     "type": "text",
+     "props": {
+      "html": "<h4>Check out our VBS video!</h4>"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 14,
+      "w": 4,
+      "h": 3
+     },
+     "m": null
+    }
+   ]
+  },
+  {
+   "id": "s0267",
+   "theme": "light",
+   "blocks": [
+    {
+     "id": "m0268",
+     "type": "text",
+     "props": {
+      "html": "<h2><strong>Family Events</strong></h2><p>Throughout the year, the Board of Christian Education offers a variety of events for the entire family. You can find out more information about upcoming events by clicking the button below.</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 0,
+      "w": 18,
+      "h": 4
+     },
+     "m": null
+    },
+    {
+     "id": "m0269",
+     "type": "button",
+     "props": {
+      "label": "EVENTS",
+      "href": "/events",
+      "variant": "primary",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 5,
+      "w": 18,
+      "h": 2
+     },
+     "m": null
+    }
+   ]
+  }
+ ]
+}

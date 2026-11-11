@@ -1,0 +1,316 @@
+{
+ "title": "St. Paul's United Church of Christ",
+ "description": "A place of worship, refuge, and outreach in Oakville, Missouri. Join us Sundays at 9:00 and 10:45 am.",
+ "url": "https://www.sp4u.org",
+ "cname": "www.sp4u.org",
+ "logo": "/media/sp-leaf-left-white-letters.png",
+ "favicon": "",
+ "shareImage": "",
+ "header": {
+  "theme": "accent",
+  "sticky": true,
+  "logoHeight": 56,
+  "ctaLabel": "Plan a Visit",
+  "ctaHref": "/new-guests"
+ },
+ "nav": [
+  {
+   "label": "About",
+   "href": "",
+   "children": [
+    {
+     "label": "About Us",
+     "href": "/about"
+    },
+    {
+     "label": "New Guests",
+     "href": "/new-guests"
+    },
+    {
+     "label": "Our Beliefs",
+     "href": "/our-beliefs"
+    },
+    {
+     "label": "Our Leadership",
+     "href": "/leadership"
+    },
+    {
+     "label": "Events",
+     "href": "/events"
+    }
+   ]
+  },
+  {
+   "label": "Ministries",
+   "href": "",
+   "children": [
+    {
+     "label": "Outreach",
+     "href": "/outreach"
+    },
+    {
+     "label": "Volunteer",
+     "href": "/volunteer-at-stpauls"
+    },
+    {
+     "label": "Choir",
+     "href": "/choir"
+    },
+    {
+     "label": "Adult Ministry",
+     "href": "/adult-ministry"
+    },
+    {
+     "label": "Youth Ministry",
+     "href": "/youth-ministry"
+    },
+    {
+     "label": "Children's Ministry",
+     "href": "/childrens-ministry"
+    },
+    {
+     "label": "St. Paul Cemetery",
+     "href": "https://www.findagrave.com/cemetery/31386/saint-paul-cemetery"
+    },
+    {
+     "label": "Podcast",
+     "href": "/podcast"
+    },
+    {
+     "label": "Give",
+     "href": "/giving"
+    }
+   ]
+  },
+  {
+   "label": "TreeHouse",
+   "href": "",
+   "children": [
+    {
+     "label": "TreeHouse Home",
+     "href": "/treehouse"
+    },
+    {
+     "label": "About TreeHouse",
+     "href": "/treehouse/about"
+    },
+    {
+     "label": "Enrollment Information",
+     "href": "/treehouse/enroll"
+    }
+   ]
+  },
+  {
+   "label": "Contact Us",
+   "href": "/contact-us",
+   "children": []
+  }
+ ],
+ "footer": {
+  "theme": "dark",
+  "showSocial": true,
+  "socialTitle": "Follow Us",
+  "badge": "/media/ucc-jwfa-logo-white.png",
+  "badgeHref": "https://www.ucc.org",
+  "badgeAlt": "United Church of Christ",
+  "columns": [
+   {
+    "title": "Contact Us",
+    "html": "<p><a href=\"tel:+13148923332\">(314) 892-3332</a></p><p>5508 Telegraph Road<br>Oakville, MO 63129</p>"
+   },
+   {
+    "title": "Sunday Worship",
+    "html": "<p>9:00 am · Heritage (Traditional)<br>10:45 am · Connections (Contemporary)</p><p><a href=\"/new-guests\">Plan a visit</a></p>"
+   }
+  ],
+  "note": "© {year} St. Paul's United Church of Christ"
+ },
+ "social": [
+  {
+   "type": "facebook",
+   "label": "Facebook",
+   "href": "https://www.facebook.com/stpauloakville"
+  },
+  {
+   "type": "instagram",
+   "label": "Instagram",
+   "href": "https://www.instagram.com/stpauloakville/"
+  },
+  {
+   "type": "youtube",
+   "label": "YouTube",
+   "href": "https://www.youtube.com/channel/UCrbUrKU7f3Lqznyqia2IBeQ"
+  },
+  {
+   "type": "spotify",
+   "label": "Spotify",
+   "href": "https://open.spotify.com/show/5QKY2vEayubUT6AP5EKXwL"
+  }
+ ],
+ "announcement": {
+  "enabled": false,
+  "text": "",
+  "href": "",
+  "theme": "dark"
+ },
+ "podcast": {
+  "title": "St. Paul's UCC Podcast",
+  "description": "Weekly Sermons from Pastors Mike and Erica at St. Paul’s United Church of Christ in Oakville, MO. Join us Sundays at 9:00 and 10:45.",
+  "author": "St. Paul's UCC",
+  "ownerName": "St. Paul's UCC",
+  "ownerEmail": "media@sp4u.org",
+  "image": "/media/podcastlogo.jpg",
+  "audioBase": "/audio/"
+ },
+ "styles": {
+  "colors": {
+   "accent": "#00624f",
+   "accentDark": "#06443a",
+   "gold": "#c79a3b",
+   "dark": "#24211f",
+   "mid": "#66605c",
+   "light": "#f4f1ec",
+   "white": "#ffffff"
+  },
+  "themes": {
+   "white": {
+    "bg": "white",
+    "text": "#3a3633",
+    "heading": "dark",
+    "accent": "accent",
+    "buttonBg": "accent",
+    "buttonText": "white"
+   },
+   "light": {
+    "bg": "light",
+    "text": "#3a3633",
+    "heading": "dark",
+    "accent": "accent",
+    "buttonBg": "accent",
+    "buttonText": "white"
+   },
+   "accent": {
+    "bg": "accent",
+    "text": "#e6f1ee",
+    "heading": "white",
+    "accent": "white",
+    "buttonBg": "white",
+    "buttonText": "accent"
+   },
+   "dark": {
+    "bg": "dark",
+    "text": "#e9e5e0",
+    "heading": "white",
+    "accent": "#8fd3c2",
+    "buttonBg": "white",
+    "buttonText": "dark"
+   }
+  },
+  "fonts": {
+   "heading": {
+    "family": "Fraunces",
+    "fallback": "Georgia, serif",
+    "weight": 500,
+    "spacing": -0.02,
+    "lineHeight": 1.15,
+    "transform": "none"
+   },
+   "body": {
+    "family": "Lato",
+    "fallback": "Helvetica, Arial, sans-serif",
+    "weight": 400,
+    "lineHeight": 1.65
+   },
+   "button": {
+    "family": "Lato",
+    "fallback": "Helvetica, Arial, sans-serif",
+    "weight": 700,
+    "transform": "uppercase",
+    "spacing": 0.06,
+    "size": 0.9
+   }
+  },
+  "sizes": {
+   "h1": 3.8,
+   "h2": 2.7,
+   "h3": 1.75,
+   "h4": 1.25,
+   "body": 1.08
+  },
+  "buttons": {
+   "radius": 6,
+   "padX": 1.7,
+   "padY": 0.95,
+   "border": 2
+  },
+  "layout": {
+   "maxWidth": 1240,
+   "radius": 10,
+   "sectionPad": 72
+  }
+ },
+ "redirects": {
+  "/upcoming/all-saints-trivia": "/events/",
+  "/upcoming/gateway-ringers-free-concert": "/events/",
+  "/upcoming/womens-retreat-2026": "/events/",
+  "/upcoming/linton-all-church-retreat-2026": "/events/",
+  "/upcoming/rally-day-1": "/events/",
+  "/upcoming/vbs-2026-camp-christmas": "/events/",
+  "/upcoming/oakville-community-market-2026": "/events/",
+  "/upcoming/easter-egg-hunt-1": "/events/",
+  "/upcoming/ash-wednesday-2026": "/events/",
+  "/upcoming/adult-confirmation-class-1": "/events/",
+  "/upcoming/advent-festival-live-nativity": "/events/",
+  "/upcoming/4ols3w363ix4yi1bp3162srtcky1xf": "/events/",
+  "/upcoming/womens-retreat-2025-leadhership": "/events/",
+  "/upcoming/new-members-class-2025": "/events/",
+  "/upcoming/adult-confirmation-class": "/events/",
+  "/upcoming/fall-community-market": "/events/",
+  "/upcoming/rally-day-2025": "/events/",
+  "/upcoming/vbs-2025": "/events/",
+  "/upcoming/trivia-night-feb-2025": "/events/",
+  "/upcoming/the-anxious-generation-book-study-workshop": "/events/",
+  "/upcoming/living-nativity": "/events/",
+  "/upcoming/tree-lot-opening": "/events/",
+  "/upcoming/fall-festival-at-oakville-community-market": "/events/",
+  "/upcoming/rally-day-2024": "/events/",
+  "/upcoming/vbs-2024-scuba": "/events/",
+  "/upcoming/honoring-our-graduates": "/events/",
+  "/upcoming/outside-work-day": "/events/",
+  "/upcoming/feed-the-need-stl": "/events/",
+  "/upcoming/easter-egg-hunt": "/events/",
+  "/upcoming/good-friday-cantata-tenebrae-service": "/events/",
+  "/upcoming/maundy-thursday": "/events/",
+  "/upcoming/the-chosen-season-2-bible-study": "/events/",
+  "/upcoming/divorce-care": "/events/",
+  "/upcoming/thrill-of-hope": "/events/",
+  "/upcoming/understanding-anxiety": "/events/",
+  "/upcoming/fall-festival-camp-moval": "/events/",
+  "/upcoming/chosen-bible-study": "/events/",
+  "/upcoming/shannondale": "/events/",
+  "/upcoming/rally-day": "/events/",
+  "/upcoming/concert": "/events/",
+  "/upcoming/easter": "/events/",
+  "/upcoming/vbs": "/events/",
+  "/upcoming/good-enough-sermon-series": "/events/",
+  "/upcoming/ashwed": "/events/",
+  "/upcoming/livingnativity": "/events/",
+  "/upcoming/christmas-cantata": "/events/",
+  "/upcoming/heart-of-christmas": "/events/",
+  "/upcoming/rally-day-2022": "/events/",
+  "/upcoming/womensretreat": "/events/",
+  "/home": "/",
+  "/volunteer": "/volunteer-at-stpauls/",
+  "/upcoming": "/events/",
+  "/ministries": "/outreach/",
+  "/cart": "/",
+  "/choir/7-day-morning-flow-challenge": "/choir/",
+  "/choir/mindful-meditation": "/choir/",
+  "/choir/yoga-for-beginners": "/choir/",
+  "/choir/v/come-jesus-come-christmas-cantata-2025": "/choir/",
+  "/choir/v/come-thou-long-expected-jesus-christmas-cantata-2025": "/choir/",
+  "/choir/v/a-thrill-of-hope-full-christmas-cantata-2025": "/choir/",
+  "/choir/v/christmas-presence-christmas-cantata-2024": "/choir/",
+  "/choir/v/let-there-be-peace-on-earth-christmas-cantata-2026": "/choir/"
+ }
+}

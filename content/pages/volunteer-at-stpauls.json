@@ -1,0 +1,168 @@
+{
+ "title": "Volunteer",
+ "slug": "volunteer-at-stpauls",
+ "description": "Want to give back to your community? You can share your talents in so many ways, such as gardening, working with kids &amp; youth, feeding people in need, and more!",
+ "sections": [
+  {
+   "id": "s0191",
+   "theme": "accent",
+   "blocks": [
+    {
+     "id": "m0192",
+     "type": "text",
+     "props": {
+      "html": "<h1>VOLUNTEER</h1><p>Get involved with the life of St. Paul’s!</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 0,
+      "w": 18,
+      "h": 4
+     },
+     "m": null
+    }
+   ],
+   "bgImage": "/media/tempimagepv4efu.jpg",
+   "bgFocus": "50% 50%",
+   "overlay": "#000000",
+   "overlayOpacity": 49
+  },
+  {
+   "id": "s0193",
+   "theme": "white",
+   "blocks": [
+    {
+     "id": "m0194",
+     "type": "text",
+     "props": {
+      "html": "<p>Volunteers are the most important part of our church - they keep us alive and vibrant! Whether it’s working with kids, helping with weekly services, maintaining our grounds, or even offering to cook a meal for a family in need, there’s so many moving parts that help keep our church running! By volunteering at St. Paul’s, you help us continue to serve as a place of Worship, Refuge, and Outreach at home and abroad.</p><p>Below is a list of all the ways you can be involved at our church. Click on the + sign over the category you’re interested in for a full list of opportunities.</p><p>Contact the church office, or fill out the Contact Form at the bottom of the page to let us know what you want to be a part of!</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 2,
+      "y": 0,
+      "w": 20,
+      "h": 9
+     },
+     "m": null
+    }
+   ]
+  },
+  {
+   "id": "s0195",
+   "theme": "white",
+   "blocks": [
+    {
+     "id": "m0196",
+     "type": "accordion",
+     "props": {
+      "items": [
+       {
+        "title": "Weekly Church Duties",
+        "html": "<p>• <strong>Fill the sanctuary candles</strong> (one or two months a year)</p><p>• <strong>Greet at the beginning of Services</strong>(9am or 10:45)</p><p>• <strong>Help with the</strong> <strong>Media Team</strong> (sound, video, visual)</p>"
+       },
+       {
+        "title": "Athletics",
+        "html": "<p>• <strong>Serve on the Athletic Committee</strong></p><p>• <strong>Participate in Dartball</strong></p><p>•<strong>Volunteer at the annual Christmas Tree Lot</strong></p>"
+       },
+       {
+        "title": "Christian Education",
+        "html": "<p>• <strong>Serve on the Christian Ed Committee</strong></p><p><strong>• Assist</strong> <strong>with DoG Group</strong> (Developmentally Disabled Adults)</p><p>• <strong>Help plan church cookouts/campouts</strong></p><p><strong>• Help plan Adventfest</strong>(annual Christmas Craft event)</p><p><strong>• Help plan Women’s Annual Retreat</strong></p><p><strong>• Plan Movie Nights</strong></p><p><strong>• Teach Adult Education classes</strong></p><p><strong>• Start a Book Group</strong></p><p><strong>• Participate in Book Group</strong></p><p><strong>• Start a small group</strong></p><p><strong>• Be a guest speaker</strong> (hobbies, trips, etc.)</p><p><strong>• Help with honoring our graduates</strong></p>"
+       },
+       {
+        "title": "Children's Programs",
+        "html": "<p><strong>• Teach Sunday School</strong> (monthly or every other month)</p><p><strong>• Volunteer with VBS</strong></p><p><strong>• Work Kingdom Bucks Store</strong></p><p><strong>• Help with Yearly Easter Egg Hunt</strong></p><p><strong>• Be on the sub list for Sunday School or Nursery</strong></p><p><strong>• Childcare during special events</strong></p><p><strong>• Help sort/maintain Resource Room</strong> (Sunday School supplies)</p><p><strong>• Serve as TreeHouse Librarian</strong> (organize &amp; return books)</p>"
+       },
+       {
+        "title": "Youth Programs",
+        "html": "<p><strong>• Help with SALT Youth Group</strong>(3rd - 5th Grade)</p><p><strong>• Chaperone a Youth Event</strong></p><p><strong>• Provide a meal for Youth Group</strong></p><p><strong>• Volunteer at Open Gym time during Youth Group</strong></p>"
+       },
+       {
+        "title": "Building & Grounds",
+        "html": "<p>Individuals can work alone, in a small group, or as a family</p><p><strong>• Serve on the Building &amp; Grounds Committee</strong></p><p><strong>OUTSIDE WORK</strong></p><p><strong>• Pick up limbs/trash around the building</strong></p><p><strong>• Clean outside stairwells &amp; sump pump pit</strong></p><p><strong>• Adopt a landscaped flower bed to maintain</strong></p><p>• Baby House Entry or front of building</p><p>• TreeHouse Entry</p><p>• Main Entrance (flower pots, fountain, or around the bell)</p><p>• Parking Lot islands</p><p>• Landscaping beds by office entry or area around electric sign</p><p><strong>• Help trim and cut grass in the back of the property</strong></p><p><strong>• Help with Spring Work Day</strong></p><p><strong>• Clean windows</strong></p><p><strong>• Service and maintain lawn equipment</strong></p><p><strong>• Help with recycling cans</strong></p><p><strong>INSIDE WORK</strong></p><p><strong>• Painting</strong></p><p><strong>• Plumbing</strong></p><p><strong>• Electrical</strong></p><p><strong>• HVAC</strong></p><p><strong>• Detail cleaning in Sanctuary</strong>(as needed)</p><p><strong>• Detail cleaning in Kitchen</strong></p><p><strong>• Detail cleaning in other parts of the church</strong>(as needed)</p><p><strong>• Drywall and taping</strong></p><p><strong>• Locksmith jobs</strong></p><p><strong>• Replace ceiling tiles</strong></p><p><strong>• Help with Winter Work Day</strong></p>"
+       },
+       {
+        "title": "Missions",
+        "html": "<p><strong>• Serve on the Missions Committee</strong></p><p><strong>• Feed people in need at Trinity lunches</strong> (every other month)</p><p><strong>• Assist with Oakville Community Market</strong> (Information tables, setup, family activities)</p><p><strong>• Provide meals to families in emergency situations</strong></p><p><strong>• Visit shut-ins</strong></p><p><strong>• Habitat for Humanity Work Crew</strong></p><p><strong>• Participate in Mission Trips</strong></p><p><strong>• Assist with funeral lunches</strong></p><p><strong>• Mail cards to shut-ins</strong></p><p><strong>• Keep contact with College Students</strong></p><p><strong>• Sell Greeting Cards after services</strong> (Benefits the VA Hospital at Jefferson Barracks)</p><p><strong>• Help with Lenten Soup Suppers</strong></p>"
+       },
+       {
+        "title": "Music & Worship Arts",
+        "html": "<p><strong>• Lead a Children’s Choir</strong></p><p><strong>• Help with a Youth Band</strong></p><p><strong>• Join Choir</strong></p><p><strong>• Join Handbells</strong></p><p><strong>• Offer Special Music in Worship</strong></p><p><strong>•</strong><a href=\"https://forms.gle/NLsof1eTW3SQGYJr9\"><strong>Sing with the Praise Team</strong> (10:45am Services)</a></p><p><strong>•</strong><a href=\"https://forms.gle/DtgEgPxTZhwDLdGe8\"><strong>Tech Booth - Slides, Video, Sound</strong></a></p>"
+       },
+       {
+        "title": "Other Opportunities",
+        "html": "<p><strong>• Help with food preparation, set tables, or do dishes for special meals</strong></p><p><strong>• Volunteer in the Church Office</strong></p><p><strong>• Read liturgy in worship</strong></p><p><strong>• Share a testimonial or be a guest preacher</strong></p><p><strong>• Host Coffee Hour</strong></p>"
+       }
+      ]
+     },
+     "style": {},
+     "d": {
+      "x": 2,
+      "y": 0,
+      "w": 20,
+      "h": 28
+     },
+     "m": null
+    }
+   ]
+  },
+  {
+   "id": "s0197",
+   "theme": "dark",
+   "blocks": [
+    {
+     "id": "m0198",
+     "type": "text",
+     "props": {
+      "html": "<h2>Let’s get in touch.</h2><p>Want to volunteer for a new opportunity?</p><p>Fill out the form &amp; let us know!</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 0,
+      "w": 10,
+      "h": 5
+     },
+     "m": null
+    },
+    {
+     "id": "m0199",
+     "type": "gform",
+     "props": {
+      "url": "",
+      "label": "Open the form"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 6,
+      "w": 10,
+      "h": 6
+     },
+     "m": null
+    },
+    {
+     "id": "m0200",
+     "type": "image",
+     "props": {
+      "src": "/media/volunteers-1.jpg",
+      "alt": "",
+      "fit": "cover",
+      "href": "",
+      "caption": "",
+      "focus": "50% 50%"
+     },
+     "style": {},
+     "d": {
+      "x": 14,
+      "y": 2,
+      "w": 8,
+      "h": 13
+     },
+     "m": null
+    }
+   ]
+  }
+ ]
+}

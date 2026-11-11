@@ -1,0 +1,276 @@
+{
+ "title": "About TreeHouse",
+ "slug": "treehouse/about",
+ "description": "Our TreeHouse Daycare strives to provide your children with the best quality of care and education. Learn more about our mission and curriculum now!",
+ "sections": [
+  {
+   "id": "s0311",
+   "theme": "accent",
+   "blocks": [
+    {
+     "id": "m0312",
+     "type": "text",
+     "props": {
+      "html": "<h1>TREEHOUSE AT ST. PAUL’S</h1>"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 0,
+      "w": 22,
+      "h": 3
+     },
+     "m": null
+    }
+   ],
+   "bgImage": "/media/20211005-100534.jpg",
+   "bgFocus": "50% 50%",
+   "overlay": "#000000",
+   "overlayOpacity": 60
+  },
+  {
+   "id": "s0313",
+   "theme": "white",
+   "blocks": [
+    {
+     "id": "m0314",
+     "type": "text",
+     "props": {
+      "html": "<h2>Making God’s Difference, putting children first</h2>"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 0,
+      "w": 22,
+      "h": 2
+     },
+     "m": null
+    },
+    {
+     "id": "m0315",
+     "type": "image",
+     "props": {
+      "src": "/media/20210820-163103.jpg",
+      "alt": "",
+      "fit": "cover",
+      "href": "",
+      "caption": "",
+      "focus": "50% 50%"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 3,
+      "w": 10,
+      "h": 12
+     },
+     "m": null
+    },
+    {
+     "id": "m0316",
+     "type": "text",
+     "props": {
+      "html": "<h3>Our Mission</h3><p>TreeHouse is a daycare and education facility with the mission of providing quality, Christian education and childcare to Oakville residents and surrounding communities in the St. Louis area. Our goal is to nurture children’s knowledge and understanding of God, Jesus, the Bible, the Church, prayer, themselves, and others as children of God. Treehouse is a vital part of the ministry of St. Paul’s United Church of Christ, and we remain dedicated to caring for the changing needs of families through preschool, extended care, school-age care, and summer care.</p><p>The TreeHouse program believes in offering families a Christian learning and loving-rich environment,  as well as giving children opportunities to establish strong roots for future development.</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 3,
+      "w": 10,
+      "h": 16
+     },
+     "m": null
+    }
+   ]
+  },
+  {
+   "id": "s0317",
+   "theme": "white",
+   "blocks": [
+    {
+     "id": "m0318",
+     "type": "image",
+     "props": {
+      "src": "/media/treehouse-3.jpg",
+      "alt": "",
+      "fit": "cover",
+      "href": "",
+      "caption": "",
+      "focus": "50% 50%"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 0,
+      "w": 10,
+      "h": 12
+     },
+     "m": null
+    },
+    {
+     "id": "m0319",
+     "type": "text",
+     "props": {
+      "html": "<h3>Our History</h3><p>Started in 1976, TreeHouse at St. Paul's Learning Center was originally owned and operated as a three-hour, morning and afternoon preschool separate from the church. St. Paul’s was merely the space rented by the owner of TreeHouse.</p><p>In 2001, Pastor Keith Karau and St. Paul’s UCC purchased TreeHouse to serve as part of their ministry to the people of Oakville. A full day “Preschool with Extended Care” option was added to help meet the needs of working families who needed child care. Building on the goal of <strong><em>Establishing Strong Roots for Future Development</em></strong>,<strong><em></em></strong>St. Paul’s added a Christian component to the already successful program.</p><p>Today, TreeHouse continues its tradition of a comprehensive, Christian-based early childhood facility, dedicated to providing children and parents with nothing but the best education and services. TreeHouse at St. Paul’s is “home away from home” to 150 children, ages 6 weeks through age 12.</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 14,
+      "y": 0,
+      "w": 9,
+      "h": 21
+     },
+     "m": null
+    }
+   ]
+  },
+  {
+   "id": "s0320",
+   "theme": "white",
+   "blocks": [
+    {
+     "id": "m0321",
+     "type": "image",
+     "props": {
+      "src": "/media/treehouse-2.jpg",
+      "alt": "",
+      "fit": "cover",
+      "href": "",
+      "caption": "",
+      "focus": "50% 50%"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 0,
+      "w": 10,
+      "h": 12
+     },
+     "m": null
+    },
+    {
+     "id": "m0322",
+     "type": "text",
+     "props": {
+      "html": "<h3>Our Philosophy</h3><p>TreeHouse is designed to allow children to actively construct knowledge as they interact with their physical and social world, under the guidelines of Project Construct.  Project Construct is a process-oriented curriculum based on the premise that children grow and obtain knowledge through their interaction with four major domains :  <strong>Socio-Moral, Cognitive, Representational, and Physical</strong>.</p><p>The major goal of this program is to foster the development of a child’s moral and intellectual autonomy.  <strong>Moral autonomy</strong> is the ability to make decisions for oneself and to regulate one’s own behaviors, without constant monitoring by others.  Children are encouraged to become self-directed and develop their emotional intelligence as they learn how to interact with others. <strong>Intellectual autonomy</strong> is the freedom to think and come to knowledge through many avenues.  Children are encouraged to experience, discover, observe, and form their own conclusions.</p><p>TreeHouse’s teachers guide and facilitate this growth by providing needed motivation, praise, and re-direction in an environment built to help children succeed. Teachers are sensitive to each child’s world, and strive to help them open new doors of imagination, learning, and friendship.</p><p>The core principles that guide the curriculum and assessment of Project Construct are:</p><ul><li><p>Children have an intrinsic desire to make sense of their world.</p></li><li><p>Children actively construct knowledge and values by interacting with physical and social worlds.</p></li><li><p>In their universal effort to understand the world, children’s thinking will contain predictable errors.</p></li><li><p>Children’s development is an interactive and interrelated process that spans the Socio-Moral, Cognitive, Representational, and Physical Development domains.</p></li></ul><p><em>\"…And sometimes when the classroom is so noisy and buzzing with activity, I just have to stop and remember that in here there is no boredom, no aimlessness, and no blind obedience.  I know my children are thinking, and that’s the best preparation I can give them for today as well as tomorrow.\"</em></p>"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 0,
+      "w": 10,
+      "h": 43
+     },
+     "m": null
+    }
+   ]
+  },
+  {
+   "id": "s0323",
+   "theme": "dark",
+   "blocks": [
+    {
+     "id": "m0324",
+     "type": "text",
+     "props": {
+      "html": "<h2>BUDDY BENCHES AT TREEHOUSE</h2>"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 0,
+      "w": 22,
+      "h": 2
+     },
+     "m": null
+    }
+   ]
+  },
+  {
+   "id": "s0325",
+   "theme": "white",
+   "blocks": [
+    {
+     "id": "m0326",
+     "type": "image",
+     "props": {
+      "src": "/media/love-like-jackson.jpg",
+      "alt": "",
+      "fit": "cover",
+      "href": "",
+      "caption": "",
+      "focus": "50% 50%"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 0,
+      "w": 10,
+      "h": 12
+     },
+     "m": null
+    },
+    {
+     "id": "m0327",
+     "type": "text",
+     "props": {
+      "html": "<p>TreeHouse and St. Paul’s United Church of Christ are proud to have partnered with <strong><em>Love Like Jackson</em></strong> to place Buddy Benches on each of our mixed-ages playgrounds. When a child feels lonely, they can sit on the bench as a sign that they need someone to play with. If other children see someone on a Buddy Bench, they're encouraged to talk to them and include them in their games. Our benches were dedicated on Mother’s Day 2022, in memory of Jackson Schmitt, who was a good friend to everyone he met.</p><h3>Love Like Jackson’s Story</h3><p>Jackson Schmitt was an otherwise healthy 7 year old before May 2019. One day, his leg began to hurt, which led him to several doctors and specialists that found no clear answer behind his pain. Almost a month later, Jackson sustained 6 strokes in the span of 6 days, and doctors discovered a nine-inch tumor in his femur. Just 6 days after entering the hospital, Jackson passed on July 20th, 2019.</p><p>Jackson’s family, friends, and school district were devastated and wanted to do something to remember him. His school, Freer Elementary, decided to place a Buddy Bench on their playground in his honor, because he was always such a good friend to everyone. Soon, more Buddy Benches were placed at local playgrounds and schools to remind kids about the importance of being included and being a friend to those having a hard time.</p><p><strong><em>Love Like Jackson</em></strong> is an organization dedicated to providing resources for families who have experienced the loss of a child. You can learn more about their mission or sponsor a Buddy Bench by clicking the button below.</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 0,
+      "w": 10,
+      "h": 30
+     },
+     "m": null
+    },
+    {
+     "id": "m0328",
+     "type": "button",
+     "props": {
+      "label": "LEARN MORE",
+      "href": "http://lovelikejackson.org",
+      "variant": "primary",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 31,
+      "w": 10,
+      "h": 2
+     },
+     "m": null
+    }
+   ]
+  },
+  {
+   "id": "s0329",
+   "theme": "white",
+   "blocks": [
+    {
+     "id": "m0330",
+     "type": "button",
+     "props": {
+      "label": "TREEHOUSE HOME",
+      "href": "/treehouse",
+      "variant": "outline",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 0,
+      "w": 22,
+      "h": 2
+     },
+     "m": null
+    }
+   ]
+  }
+ ]
+}

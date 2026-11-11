@@ -1,0 +1,651 @@
+{
+ "title": "New Guests",
+ "slug": "new-guests",
+ "description": "St. Paul's is an inclusive, welcoming, and forward-thinking church in the St. Louis area. Click here for service times, group information, and more opportunities to connect!",
+ "sections": [
+  {
+   "id": "s0067",
+   "theme": "accent",
+   "blocks": [
+    {
+     "id": "m0068",
+     "type": "text",
+     "props": {
+      "html": "<h1>Welcome To St. Paul’s!</h1><p>A Place of Worship, Refuge, and Outreach in the St. Louis area.</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 0,
+      "w": 22,
+      "h": 4
+     },
+     "m": null
+    }
+   ],
+   "bgImage": "/media/22.png",
+   "bgFocus": "50% 50%",
+   "overlay": "#000000",
+   "overlayOpacity": 60
+  },
+  {
+   "id": "s0069",
+   "theme": "white",
+   "blocks": [
+    {
+     "id": "m0070",
+     "type": "text",
+     "props": {
+      "html": "<h2>Our Services</h2><p>At St. Paul's, we have something for everyone! We offer both traditional and contemporary services for however you like to worship, as well as services for children and youth.</p><ul><li><h3>Heritage (Traditional) Service - Sundays at 9am</h3></li></ul><ul><li><h3>Connections (Contemporary) Service - Sundays at 10:45am</h3></li></ul>"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 0,
+      "w": 10,
+      "h": 9
+     },
+     "m": null
+    },
+    {
+     "id": "m0071",
+     "type": "button",
+     "props": {
+      "label": "VIEW ONLINE SERVICES",
+      "href": "https://www.youtube.com/channel/UCrbUrKU7f3Lqznyqia2IBeQ/videos",
+      "variant": "outline",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 10,
+      "w": 10,
+      "h": 2
+     },
+     "m": null
+    },
+    {
+     "id": "m0072",
+     "type": "image",
+     "props": {
+      "src": "/media/4.jpg",
+      "alt": "",
+      "fit": "cover",
+      "href": "",
+      "caption": "",
+      "focus": "50% 50%"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 0,
+      "w": 10,
+      "h": 12
+     },
+     "m": null
+    }
+   ]
+  },
+  {
+   "id": "s0073",
+   "theme": "dark",
+   "blocks": [
+    {
+     "id": "m0074",
+     "type": "text",
+     "props": {
+      "html": "<h2>Let’s get to know each other.</h2><p>We want your first visit to St. Paul’s to be a great one! Here are some things to know before you go.</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 0,
+      "w": 18,
+      "h": 4
+     },
+     "m": null
+    }
+   ]
+  },
+  {
+   "id": "s0075",
+   "theme": "light",
+   "blocks": [
+    {
+     "id": "m0076",
+     "type": "text",
+     "props": {
+      "html": "<h3>Who We Are</h3><p>We’re a community of Christ-followers who seek to create a just and peaceful world. We believe that every person deserves a relationship with God, and recognize that our differences help create a more vibrant community of faith.</p><p>Our motto is <em>“To be a place of</em><strong><em>worship, refuge, and</em></strong><em></em><strong><em>outreach</em></strong><em>”</em>, and we take that to heart. <strong>Worship</strong> connects us with God and with others. Our church is a place of <strong>refuge</strong> from life’s troubles, with a community that supports and helps each other no matter what. We participate in community and global <strong>outreach</strong> at home and abroad, uplifting and aiding those who need our help. All of this is done in the name of God, in order to make our communities just and peaceful.</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 0,
+      "w": 18,
+      "h": 10
+     },
+     "m": null
+    },
+    {
+     "id": "m0077",
+     "type": "divider",
+     "props": {
+      "width": 100,
+      "thickness": 1
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 11,
+      "w": 18,
+      "h": 1
+     },
+     "m": null
+    },
+    {
+     "id": "m0078",
+     "type": "text",
+     "props": {
+      "html": "<h3>What To Expect</h3><p>Finding a new church home can be a difficult journey, so thank you for considering us in your search! We have two services every Sunday at <strong>9am</strong> and <strong>10:45am</strong>based on how you enjoy worshipping. Our <strong>Heritage Service at 9am</strong> is a traditional service featuring hymns, while our <strong>Connections Service at 10:45am</strong> features contemporary music from our live praise band. The message is the same for both services, so feel free to try both and see what worship style fits best for you!</p><p>There’s no dress code for any of our services, so we encourage you to wear what makes you comfortable. We care about <em>you</em>, not what you’re wearing!</p><p>Between services, you’re invited to grab a cup of coffee, eat some donuts, and have fellowship time with members of our church. Let a greeter or church staff know you’re new, and we’ll find someone to sit with you!</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 13,
+      "w": 18,
+      "h": 12
+     },
+     "m": null
+    },
+    {
+     "id": "m0079",
+     "type": "divider",
+     "props": {
+      "width": 100,
+      "thickness": 1
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 26,
+      "w": 18,
+      "h": 1
+     },
+     "m": null
+    },
+    {
+     "id": "m0080",
+     "type": "text",
+     "props": {
+      "html": "<h3>All Are Welcome</h3><p>We believe God welcomes and embraces all races, genders, orientations, classes, and creeds. St. Paul’s is a place for everyone to grow on their spiritual journey and find belonging in vibrant community of believers.</p><p>If you’re curious about God or are looking for friendship, but have never felt comfortable in a church setting, we want to ensure that we’ll do all we can to make you feel welcome!</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 28,
+      "w": 18,
+      "h": 7
+     },
+     "m": null
+    }
+   ]
+  },
+  {
+   "id": "s0081",
+   "theme": "accent",
+   "blocks": [
+    {
+     "id": "m0082",
+     "type": "text",
+     "props": {
+      "html": "<h2>Read more about what we believe.</h2>"
+     },
+     "style": {
+      "align": "center"
+     },
+     "d": {
+      "x": 3,
+      "y": 0,
+      "w": 18,
+      "h": 2
+     },
+     "m": null
+    },
+    {
+     "id": "m0083",
+     "type": "button",
+     "props": {
+      "label": "OUR BELIEFS",
+      "href": "/our-beliefs",
+      "variant": "outline",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 3,
+      "w": 18,
+      "h": 2
+     },
+     "m": null
+    }
+   ],
+   "bgImage": "/media/dsc04083.png",
+   "bgFocus": "50% 50%",
+   "overlay": "#000000",
+   "overlayOpacity": 60
+  },
+  {
+   "id": "s0084",
+   "theme": "white",
+   "blocks": [
+    {
+     "id": "m0085",
+     "type": "text",
+     "props": {
+      "html": "<h2>Our Community</h2><p>Find a place to plug in with our small groups and ministries!</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 0,
+      "w": 18,
+      "h": 4
+     },
+     "m": null
+    },
+    {
+     "id": "m0086",
+     "type": "image",
+     "props": {
+      "src": "/media/cookout-3.png",
+      "alt": "",
+      "fit": "cover",
+      "href": "",
+      "caption": "",
+      "focus": "50% 50%"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 5,
+      "w": 8,
+      "h": 9
+     },
+     "m": null
+    },
+    {
+     "id": "m0087",
+     "type": "text",
+     "props": {
+      "html": "<h3>Youth Ministry</h3><p>We offer groups for elementary, middle, and high schoolers to have fun and grow closer to God. We also provide Christian Education courses so young people will know God and practice their faith in their daily lives.</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 13,
+      "y": 6,
+      "w": 8,
+      "h": 7
+     },
+     "m": null
+    },
+    {
+     "id": "m0088",
+     "type": "image",
+     "props": {
+      "src": "/media/img-7080.jpg",
+      "alt": "",
+      "fit": "cover",
+      "href": "",
+      "caption": "",
+      "focus": "50% 50%"
+     },
+     "style": {},
+     "d": {
+      "x": 13,
+      "y": 15,
+      "w": 8,
+      "h": 9
+     },
+     "m": null
+    },
+    {
+     "id": "m0089",
+     "type": "text",
+     "props": {
+      "html": "<h3>Women’s Group</h3><p>Our women's group is a place for women of all ages to connect and learn on their respective spiritual journeys. Most meetings focus on either a Bible Study or Book Discussion, with topics that are relevant to life and current events.</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 16,
+      "w": 8,
+      "h": 7
+     },
+     "m": null
+    },
+    {
+     "id": "m0090",
+     "type": "image",
+     "props": {
+      "src": "/media/andrik-langfield-1-yqioijio8-unsplash.jpg",
+      "alt": "",
+      "fit": "cover",
+      "href": "",
+      "caption": "",
+      "focus": "50% 50%"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 25,
+      "w": 8,
+      "h": 9
+     },
+     "m": null
+    },
+    {
+     "id": "m0091",
+     "type": "text",
+     "props": {
+      "html": "<h3>Men’s Prayer Breakfast</h3><p>A group for men focused on fellowship and food. Meetings are held every Thursday at a variety of local restaurants.</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 13,
+      "y": 26,
+      "w": 8,
+      "h": 5
+     },
+     "m": null
+    },
+    {
+     "id": "m0092",
+     "type": "image",
+     "props": {
+      "src": "/media/dog-1.png",
+      "alt": "",
+      "fit": "cover",
+      "href": "",
+      "caption": "",
+      "focus": "50% 50%"
+     },
+     "style": {},
+     "d": {
+      "x": 13,
+      "y": 35,
+      "w": 8,
+      "h": 9
+     },
+     "m": null
+    },
+    {
+     "id": "m0093",
+     "type": "text",
+     "props": {
+      "html": "<h3>Disciples Of God</h3><p>This group gives people with developmental disabilities a space to hang out, make friends, and volunteer to help others!</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 36,
+      "w": 8,
+      "h": 5
+     },
+     "m": null
+    },
+    {
+     "id": "m0094",
+     "type": "button",
+     "props": {
+      "label": "LEARN MORE ABOUT OUR MINISTRIES",
+      "href": "/adult-ministry",
+      "variant": "outline",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 45,
+      "w": 18,
+      "h": 2
+     },
+     "m": null
+    }
+   ]
+  },
+  {
+   "id": "s0095",
+   "theme": "light",
+   "blocks": [
+    {
+     "id": "m0096",
+     "type": "text",
+     "props": {
+      "html": "<h2>A Message From Our Pastors</h2>"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 0,
+      "w": 18,
+      "h": 2
+     },
+     "m": null
+    },
+    {
+     "id": "m0097",
+     "type": "image",
+     "props": {
+      "src": "/media/pastors.jpg",
+      "alt": "",
+      "fit": "cover",
+      "href": "",
+      "caption": "",
+      "focus": "50% 50%"
+     },
+     "style": {},
+     "d": {
+      "x": 13,
+      "y": 3,
+      "w": 8,
+      "h": 17
+     },
+     "m": null
+    },
+    {
+     "id": "m0098",
+     "type": "text",
+     "props": {
+      "html": "<h3>Welcome!We’re glad you’re here.</h3><p>We want to thank you for checking out St. Paul's , and are excited to have a chance to share God’s love with you!</p><p>How do you express who you are and what you stand for in just a few paragraphs? It’s like trying to describe the dash between two dates in a 15 minute eulogy—it will never do full justice!</p><p>We are about building the Kingdom. We are about making disciples. We are about the journey as much as the destination. We want to meet you where you are and share some time together as we travel the paths of life.</p><p>Above all, we are about knowing the love of God in our lives and trying to pass that on to one another. Sometimes we do it well— sometimes we fail— but we always try.</p><p>Join us as we lift up our awesome God and seek to be a place of Worship, Refuge and Outreach to all! Everyone is welcome here.</p><p>- Pastors Mike &amp; Erica Roth</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 4,
+      "w": 8,
+      "h": 26
+     },
+     "m": null
+    },
+    {
+     "id": "m0099",
+     "type": "button",
+     "props": {
+      "label": "MEET THE PASTORS",
+      "href": "/leadership",
+      "variant": "outline",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 32,
+      "w": 18,
+      "h": 2
+     },
+     "m": null
+    }
+   ]
+  },
+  {
+   "id": "s0100",
+   "theme": "white",
+   "blocks": [
+    {
+     "id": "m0101",
+     "type": "text",
+     "props": {
+      "html": "<h2>About The UCC</h2><h3>A church where all may be one.</h3><p>The United Church of Christ (UCC) is a distinct and diverse community of Christians that come together as one church to join faith and action.  With over 5,000 churches and nearly one million members across the United States, the UCC serves God in the co-creation of a just and sustainable world.</p><p>Since 1957, the United Church of Christ has been the church of firsts, weaving God’s message of hope and extravagant welcome with action for justice and peace. Together, we live out our faith in ways that bring change to our communities.</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 0,
+      "w": 18,
+      "h": 11
+     },
+     "m": null
+    },
+    {
+     "id": "m0102",
+     "type": "button",
+     "props": {
+      "label": "LEARN MORE",
+      "href": "/about/#ucc-about",
+      "variant": "primary",
+      "size": "",
+      "align": "left"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 12,
+      "w": 17,
+      "h": 2
+     },
+     "m": null
+    }
+   ]
+  },
+  {
+   "id": "s0103",
+   "theme": "light",
+   "blocks": [
+    {
+     "id": "m0104",
+     "type": "text",
+     "props": {
+      "html": "<h2>Let’s get in touch.</h2><p>Want more information? Contact us using the form below.</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 0,
+      "w": 10,
+      "h": 4
+     },
+     "m": null
+    },
+    {
+     "id": "m0105",
+     "type": "gform",
+     "props": {
+      "url": "",
+      "label": "Open the form"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 5,
+      "w": 10,
+      "h": 6
+     },
+     "m": null
+    },
+    {
+     "id": "m0106",
+     "type": "map",
+     "props": {
+      "query": "5508 Telegraph Road, St. Louis, MO 63129",
+      "zoom": 14
+     },
+     "style": {},
+     "d": {
+      "x": 14,
+      "y": 2,
+      "w": 8,
+      "h": 12
+     },
+     "m": null
+    }
+   ]
+  },
+  {
+   "id": "s0107",
+   "theme": "dark",
+   "blocks": [
+    {
+     "id": "m0108",
+     "type": "text",
+     "props": {
+      "html": "<h1>Stay Connected</h1>"
+     },
+     "style": {
+      "align": "center"
+     },
+     "d": {
+      "x": 3,
+      "y": 0,
+      "w": 18,
+      "h": 3
+     },
+     "m": null
+    },
+    {
+     "id": "m0109",
+     "type": "button",
+     "props": {
+      "label": "FIND US ON FACEBOOK",
+      "href": "https://www.facebook.com/stpauloakville/",
+      "variant": "primary",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 4,
+      "w": 8,
+      "h": 2
+     },
+     "m": null
+    },
+    {
+     "id": "m0110",
+     "type": "button",
+     "props": {
+      "label": "FOLLOW US ON INSTAGRAM",
+      "href": "https://www.instagram.com/stpauloakville/",
+      "variant": "primary",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 4,
+      "w": 8,
+      "h": 2
+     },
+     "m": null
+    }
+   ]
+  }
+ ]
+}

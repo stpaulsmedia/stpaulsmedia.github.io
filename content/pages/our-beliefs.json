@@ -1,0 +1,544 @@
+{
+ "title": "Our Beliefs",
+ "slug": "our-beliefs",
+ "description": "Being a church of worship, refuge, and outreach is the core of what we do. We are an inclusive, affirming, forward-thinking church in the St. Louis area. Our statement of beliefs explains our mission and creed in detail.",
+ "sections": [
+  {
+   "id": "s0111",
+   "theme": "accent",
+   "blocks": [
+    {
+     "id": "m0112",
+     "type": "text",
+     "props": {
+      "html": "<h2>Our Beliefs</h2><p>Being a place of worship, refuge, and outreach is our core. Our statement of beliefs explains our mission and creed in more detail.</p>"
+     },
+     "style": {
+      "align": "center"
+     },
+     "d": {
+      "x": 1,
+      "y": 0,
+      "w": 22,
+      "h": 4
+     },
+     "m": null
+    },
+    {
+     "id": "m0113",
+     "type": "text",
+     "props": {
+      "html": "<h4>WE BELIEVE IN THE TRUINE GOD</h4>"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 7,
+      "w": 8,
+      "h": 1
+     },
+     "m": null
+    },
+    {
+     "id": "m0114",
+     "type": "text",
+     "props": {
+      "html": "<p>God the Creator, Christ the resurrected, and the Holy Spirit, who guides and brings about the creative and redemptive work of God in the world.</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 7,
+      "w": 10,
+      "h": 3
+     },
+     "m": null
+    },
+    {
+     "id": "m0115",
+     "type": "divider",
+     "props": {
+      "width": 100,
+      "thickness": 1
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 11,
+      "w": 22,
+      "h": 1
+     },
+     "m": null
+    },
+    {
+     "id": "m0116",
+     "type": "text",
+     "props": {
+      "html": "<h4>WE BELIEVE THAT EACH PERSON IS UNIQUE AND VALUABLE</h4>"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 13,
+      "w": 8,
+      "h": 2
+     },
+     "m": null
+    },
+    {
+     "id": "m0117",
+     "type": "text",
+     "props": {
+      "html": "<p>It is the will of God that every person belong to a family of faith where they have a strong sense of being valued and loved. Each person’s unique experience is a thread in the vibrant tapestry of the church.</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 13,
+      "w": 10,
+      "h": 4
+     },
+     "m": null
+    },
+    {
+     "id": "m0118",
+     "type": "divider",
+     "props": {
+      "width": 100,
+      "thickness": 1
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 18,
+      "w": 22,
+      "h": 1
+     },
+     "m": null
+    },
+    {
+     "id": "m0119",
+     "type": "text",
+     "props": {
+      "html": "<h4>WE BELIEVE THAT EVERYONE IS ON A SPIRITUAL JOURNEY</h4>"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 20,
+      "w": 8,
+      "h": 2
+     },
+     "m": null
+    },
+    {
+     "id": "m0120",
+     "type": "text",
+     "props": {
+      "html": "<p>Each person is at a different stage of their journey with God, and deserve to be met where they’re at.</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 20,
+      "w": 10,
+      "h": 2
+     },
+     "m": null
+    },
+    {
+     "id": "m0121",
+     "type": "divider",
+     "props": {
+      "width": 100,
+      "thickness": 1
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 23,
+      "w": 22,
+      "h": 1
+     },
+     "m": null
+    },
+    {
+     "id": "m0122",
+     "type": "text",
+     "props": {
+      "html": "<h4>WE BELIEVE THAT THE PERSISTENT SEARCH FOR GOD PRODUCES AN AUTHENTIC RELATIONSHIP</h4>"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 25,
+      "w": 8,
+      "h": 3
+     },
+     "m": null
+    },
+    {
+     "id": "m0123",
+     "type": "text",
+     "props": {
+      "html": "<p>A relationship with God kindles love, strengthens faith, dissolves guilt, and gives life purpose and direction.</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 25,
+      "w": 10,
+      "h": 2
+     },
+     "m": null
+    },
+    {
+     "id": "m0124",
+     "type": "divider",
+     "props": {
+      "width": 100,
+      "thickness": 1
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 29,
+      "w": 22,
+      "h": 1
+     },
+     "m": null
+    },
+    {
+     "id": "m0125",
+     "type": "text",
+     "props": {
+      "html": "<h4>WE BELIEVE THAT ALL OF THE BAPTIZED 'BELONG BODY AND SOUL TO OUR LORD AND SAVIOR JESUS CHRIST’</h4>"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 31,
+      "w": 8,
+      "h": 3
+     },
+     "m": null
+    },
+    {
+     "id": "m0126",
+     "type": "text",
+     "props": {
+      "html": "<p>No matter who. No matter what. No matter where you are on life's journey. No matter your race, gender identity or expression, sexual orientation, class, or creed – we all belong to God and to one worldwide community of faith.</p><p>All persons baptized – past, present and future – are connected to each other and to God through the sacrament of baptism. We baptize during worship when the community is present because baptism includes the community's promise of love, support, and care for the baptized. We promise that we won't take it back – no matter where life’s path leads you.</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 31,
+      "w": 10,
+      "h": 11
+     },
+     "m": null
+    },
+    {
+     "id": "m0127",
+     "type": "divider",
+     "props": {
+      "width": 100,
+      "thickness": 1
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 43,
+      "w": 22,
+      "h": 1
+     },
+     "m": null
+    },
+    {
+     "id": "m0128",
+     "type": "text",
+     "props": {
+      "html": "<h4>WE BELIEVE THAT ALL PEOPLE OF FAITH ARE INVITED TO JOIN CHRIST AT CHRIST'S TABLE FOR THE SACRAMENT OF COMMUNION</h4>"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 45,
+      "w": 8,
+      "h": 4
+     },
+     "m": null
+    },
+    {
+     "id": "m0129",
+     "type": "text",
+     "props": {
+      "html": "<p>Just as many grains of wheat are gathered to make one loaf of bread and many grapes are gathered to make one cup of wine, we are made one in the body of Christ. The breaking of bread and the pouring of wine reminds us of the costliness of Christ's sacrifice and the discipleship to which we are all called.</p><p>In the breaking of bread, we remember and celebrate Christ's presence among us, along with our ancestors, family, and friends who have gone before us. It is a great mystery – we claim it by faith.</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 45,
+      "w": 10,
+      "h": 10
+     },
+     "m": null
+    },
+    {
+     "id": "m0130",
+     "type": "divider",
+     "props": {
+      "width": 100,
+      "thickness": 1
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 56,
+      "w": 22,
+      "h": 1
+     },
+     "m": null
+    },
+    {
+     "id": "m0131",
+     "type": "text",
+     "props": {
+      "html": "<h4>WE BELIEVE THE UCC IS CALLED TO BE A UNITED AND UNITING CHURCH</h4>"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 58,
+      "w": 8,
+      "h": 2
+     },
+     "m": null
+    },
+    {
+     "id": "m0132",
+     "type": "text",
+     "props": {
+      "html": "<p><em>\"That they may all be one.\" (John 17:21)</em></p><p><em>\"In essentials–unity, in nonessentials–diversity, in all things–charity.\"</em></p><p>These UCC mottos survive because they touch core values deep within us. The UCC has no rigid formulation of doctrine or attachment to creeds or structures. Its overarching creed is love. UCC pastors and teachers are known for their commitment to excellence in theological preparation, interpretation of the scripture, and justice advocacy. Even so, love and unity in the midst of our diversity are our greatest assets.</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 58,
+      "w": 10,
+      "h": 11
+     },
+     "m": null
+    },
+    {
+     "id": "m0133",
+     "type": "divider",
+     "props": {
+      "width": 100,
+      "thickness": 1
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 70,
+      "w": 22,
+      "h": 1
+     },
+     "m": null
+    },
+    {
+     "id": "m0134",
+     "type": "text",
+     "props": {
+      "html": "<h4>WE BELIEVE THAT GOD CALLS US TO BE SERVANTS IN THE SERVICE OF OTHERS</h4>"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 72,
+      "w": 8,
+      "h": 2
+     },
+     "m": null
+    },
+    {
+     "id": "m0135",
+     "type": "text",
+     "props": {
+      "html": "<p>We are called to help the people of the world and to be good stewards of the earth's resources.<em></em></p><p><em>“To believe is to care; to care is to do.”</em></p>"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 72,
+      "w": 10,
+      "h": 3
+     },
+     "m": null
+    },
+    {
+     "id": "m0136",
+     "type": "divider",
+     "props": {
+      "width": 100,
+      "thickness": 1
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 76,
+      "w": 22,
+      "h": 1
+     },
+     "m": null
+    },
+    {
+     "id": "m0137",
+     "type": "text",
+     "props": {
+      "html": "<h4>WE BELIEVE THAT THE UCC IS CALLED TO BE A PROPHETIC CHURCH</h4>"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 78,
+      "w": 8,
+      "h": 2
+     },
+     "m": null
+    },
+    {
+     "id": "m0138",
+     "type": "text",
+     "props": {
+      "html": "<p>As in the tradition of the prophets and apostles, God calls the church to speak truth to power, liberate the oppressed, care for the poor, and comfort the afflicted.</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 78,
+      "w": 10,
+      "h": 3
+     },
+     "m": null
+    },
+    {
+     "id": "m0139",
+     "type": "divider",
+     "props": {
+      "width": 100,
+      "thickness": 1
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 82,
+      "w": 22,
+      "h": 1
+     },
+     "m": null
+    },
+    {
+     "id": "m0140",
+     "type": "text",
+     "props": {
+      "html": "<h4>WE BELIEVE IN THE POWER OF PEACE</h4>"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 84,
+      "w": 8,
+      "h": 1
+     },
+     "m": null
+    },
+    {
+     "id": "m0141",
+     "type": "text",
+     "props": {
+      "html": "<p>We value the lives of others and work for nonviolent solutions to local, national, and international problems.</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 84,
+      "w": 10,
+      "h": 2
+     },
+     "m": null
+    },
+    {
+     "id": "m0142",
+     "type": "divider",
+     "props": {
+      "width": 100,
+      "thickness": 1
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 87,
+      "w": 22,
+      "h": 1
+     },
+     "m": null
+    },
+    {
+     "id": "m0143",
+     "type": "text",
+     "props": {
+      "html": "<h4>WE ARE PEOPLE OF POSSIBILITY</h4>"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 89,
+      "w": 8,
+      "h": 1
+     },
+     "m": null
+    },
+    {
+     "id": "m0144",
+     "type": "text",
+     "props": {
+      "html": "<p>In the UCC, members, congregations, and structures have the breathing room to explore and to hear. The word of God is still living and active, and God is still speaking.</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 89,
+      "w": 10,
+      "h": 3
+     },
+     "m": null
+    },
+    {
+     "id": "m0145",
+     "type": "button",
+     "props": {
+      "label": "BACK TO ABOUT PAGE",
+      "href": "/about",
+      "variant": "primary",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 95,
+      "w": 22,
+      "h": 2
+     },
+     "m": null
+    }
+   ],
+   "bgImage": "/media/dsc04083.png",
+   "bgFocus": "50% 50%",
+   "overlay": "#000000",
+   "overlayOpacity": 90,
+   "minHeight": 55
+  }
+ ]
+}

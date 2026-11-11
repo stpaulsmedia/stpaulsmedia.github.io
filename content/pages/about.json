@@ -1,0 +1,346 @@
+{
+ "title": "About Us",
+ "slug": "about",
+ "description": "Looking for an inclusive, welcoming church in the St. Louis area? Learn more about how St. Paul's and the United Church of Christ work to create a just world for all.",
+ "sections": [
+  {
+   "id": "s0042",
+   "theme": "accent",
+   "blocks": [
+    {
+     "id": "m0043",
+     "type": "text",
+     "props": {
+      "html": "<h1>ABOUT US</h1><p>We seek to be a place of worship, refuge, and outreach in the Oakville and St. Louis area.</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 0,
+      "w": 18,
+      "h": 4
+     },
+     "m": null
+    }
+   ],
+   "bgImage": "/media/22.png",
+   "bgFocus": "50% 50%",
+   "overlay": "#000000",
+   "overlayOpacity": 49
+  },
+  {
+   "id": "s0044",
+   "theme": "white",
+   "blocks": [
+    {
+     "id": "m0045",
+     "type": "text",
+     "props": {
+      "html": "<h2>A MESSAGE FROM OUR PASTORS</h2>"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 0,
+      "w": 18,
+      "h": 2
+     },
+     "m": null
+    },
+    {
+     "id": "m0046",
+     "type": "image",
+     "props": {
+      "src": "/media/pastors.jpg",
+      "alt": "",
+      "fit": "cover",
+      "href": "",
+      "caption": "",
+      "focus": "50% 50%"
+     },
+     "style": {},
+     "d": {
+      "x": 13,
+      "y": 3,
+      "w": 8,
+      "h": 17
+     },
+     "m": null
+    },
+    {
+     "id": "m0047",
+     "type": "text",
+     "props": {
+      "html": "<h3>Welcome! We’re glad you’re here.</h3><p>We want to thank you for checking out St. Paul's , and are excited to have a chance to share God’s love with you!</p><p>How do you express who you are and what you stand for in just a few paragraphs? It’s like trying to describe the dash between two dates in a 15 minute eulogy—it will never do full justice!</p><p>We are about building the Kingdom. We are about making disciples. We are about the journey as much as the destination. We want to meet you where you are and share some time together as we travel the paths of life.</p><p>Above all, we are about knowing the love of God in our lives and trying to pass that on to one another. Sometimes we do it well— sometimes we fail— but we always try.</p><p>Join us as we lift up our awesome God and seek to be a place of Worship, Refuge and Outreach to all! Everyone is welcome here.</p><p>- Pastors Mike &amp; Erica Roth</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 4,
+      "w": 8,
+      "h": 26
+     },
+     "m": null
+    },
+    {
+     "id": "m0048",
+     "type": "button",
+     "props": {
+      "label": "MEET THE PASTORS",
+      "href": "/leadership",
+      "variant": "outline",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 32,
+      "w": 18,
+      "h": 2
+     },
+     "m": null
+    }
+   ]
+  },
+  {
+   "id": "s0049",
+   "theme": "light",
+   "blocks": [
+    {
+     "id": "m0050",
+     "type": "text",
+     "props": {
+      "html": "<h3>WHO WE ARE</h3><p>We’re a community of Christ-followers who seek to create a just and peaceful world. We believe that every person deserves a relationship with God, and recognize that our differences help create a more vibrant community of faith.</p><p>Our motto is <em>“To be a place of</em><strong><em>worship, refuge, and</em></strong><em></em><strong><em>outreach</em></strong><em>”</em>, and we take that to heart. <strong>Worship</strong> connects us with God and with others. Our church is a place of <strong>refuge</strong> from life’s troubles, with a community that supports and helps each other no matter what. We participate in community and global <strong>outreach</strong> at home and abroad, uplifting and aiding those who need our help. All of this is done in the name of God, in order to make our communities just and peaceful.</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 0,
+      "w": 18,
+      "h": 10
+     },
+     "m": null
+    },
+    {
+     "id": "m0051",
+     "type": "divider",
+     "props": {
+      "width": 100,
+      "thickness": 1
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 11,
+      "w": 18,
+      "h": 1
+     },
+     "m": null
+    },
+    {
+     "id": "m0052",
+     "type": "text",
+     "props": {
+      "html": "<h3>WHAT TO EXPECT</h3><p>Finding a new church home can be a difficult journey, so thank you for considering us in your search! We have two services every Sunday at <strong>9am</strong> and <strong>10:45am</strong>based on how you enjoy worshipping. Our <strong>Heritage Service at 9am</strong> is a traditional service featuring hymns, while our <strong>Connections Service at 10:45am</strong> features contemporary music from our live praise band. The message is the same for both services, so feel free to try both and see what worship style fits best for you!</p><p>There’s no dress code for any of our services, so we encourage you to wear what makes you comfortable. We care about <em>you</em>, not what you’re wearing!</p><p>Between services, you’re invited to grab a cup of coffee, eat some donuts, and have fellowship time with members of our church. Let a greeter or church staff know you’re new, and we’ll find someone to sit with you!</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 13,
+      "w": 18,
+      "h": 12
+     },
+     "m": null
+    },
+    {
+     "id": "m0053",
+     "type": "divider",
+     "props": {
+      "width": 100,
+      "thickness": 1
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 26,
+      "w": 18,
+      "h": 1
+     },
+     "m": null
+    },
+    {
+     "id": "m0054",
+     "type": "text",
+     "props": {
+      "html": "<h3>ALL ARE WELCOME</h3>"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 28,
+      "w": 18,
+      "h": 1
+     },
+     "m": null
+    },
+    {
+     "id": "m0055",
+     "type": "text",
+     "props": {
+      "html": "<p>We believe God welcomes all races, genders, orientations, classes, and creeds. St. Paul’s is a place for everyone to grow on their spiritual journey and find belonging in vibrant community of believers.</p><p>If you’re curious about God or are looking for friendship, but have never felt comfortable in a church setting, we want to ensure that we’ll do all we can to make you feel welcome!</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 30,
+      "w": 18,
+      "h": 4
+     },
+     "m": null
+    }
+   ]
+  },
+  {
+   "id": "s0056",
+   "theme": "accent",
+   "blocks": [
+    {
+     "id": "m0057",
+     "type": "text",
+     "props": {
+      "html": "<h2>Read more about what we believe.</h2>"
+     },
+     "style": {
+      "align": "center"
+     },
+     "d": {
+      "x": 3,
+      "y": 0,
+      "w": 18,
+      "h": 2
+     },
+     "m": null
+    },
+    {
+     "id": "m0058",
+     "type": "button",
+     "props": {
+      "label": "OUR BELIEFS",
+      "href": "/our-beliefs",
+      "variant": "outline",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 3,
+      "w": 18,
+      "h": 2
+     },
+     "m": null
+    }
+   ],
+   "bgImage": "/media/dsc04083.png",
+   "bgFocus": "50% 50%",
+   "overlay": "#000000",
+   "overlayOpacity": 79
+  },
+  {
+   "id": "s0059",
+   "theme": "white",
+   "blocks": [
+    {
+     "id": "m0060",
+     "type": "text",
+     "props": {
+      "html": "<h2>WHO IS THE UCC?</h2>"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 0,
+      "w": 22,
+      "h": 2
+     },
+     "m": null
+    },
+    {
+     "id": "m0061",
+     "type": "image",
+     "props": {
+      "src": "/media/127017119-10164561404190594-1360057802470929800-n.jpg",
+      "alt": "",
+      "fit": "cover",
+      "href": "",
+      "caption": "",
+      "focus": "50% 50%"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 3,
+      "w": 8,
+      "h": 9
+     },
+     "m": null
+    },
+    {
+     "id": "m0062",
+     "type": "image",
+     "props": {
+      "src": "/media/10861068-10155533844460594-2640458693350648518-o.jpg",
+      "alt": "",
+      "fit": "cover",
+      "href": "",
+      "caption": "",
+      "focus": "50% 50%"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 13,
+      "w": 8,
+      "h": 9
+     },
+     "m": null
+    },
+    {
+     "id": "m0063",
+     "type": "text",
+     "props": {
+      "html": "<p>The <strong>United Church of Christ (UCC)</strong> is a distinct and diverse community of Christians that come together as one church to join faith and action.  With over 5,000 churches and nearly one million members across the U.S., the UCC serves God in the co-creation of a just and sustainable world.  The UCC is a church of firsts, a church of extravagant welcome, and a church where <strong>\"…they may all be one\"</strong> (John 17:21).</p><h4><strong>A CHURCH OF FIRSTS</strong></h4><p>Since 1957, the United Church of Christ has been the church of firsts, living out our faith in ways that initiate change in our communities. When we read in Galatians: \"There is no longer Jew or Greek, there is no longer slave or free, there is no longer male and female; for all of you are one in Christ Jesus\"—a demand is made upon us. The UCC's many firsts mean that we have inherited a tradition of acting upon these demands of our faith.</p><ul><li><p>The United Church of Christ was the first historically white denomination to ordain an African-American minister. We were also the first to ordain a female minister, as well as a minister who was an openly gay man.</p></li><li><p>The UCC was the first Christian church to affirm the right of same-gender couples to marry.</p></li><li><p>Our denomination was in the forefront of the anti-slavery movement and the Civil Rights movement. Our response to the demands of our faith is woven into the history of our country.</p></li></ul><p>Today, we continue to change lives throughout the world.</p><ul><li><p>We work alongside more than 200 mission partners. We labor ceaselessly to fight injustice in the United States and abroad.</p></li><li><p>We instill our vision into our youth and young adults, forging leaders who will imagine new dreams.</p></li><li><p>We sustain and develop church leaders, pastors, and our local churches to live their faith in exciting new ways.</p></li><li><p>We believe in a God that is still speaking, all-loving, and inclusive. We are a church that welcomes and accepts everyone as they are, where your mind is nourished as much as your soul.</p></li></ul><p>We are a church where Jesus the healer meets Jesus the revolutionary, and where together we grow a just and peaceful world.</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 3,
+      "w": 10,
+      "h": 45
+     },
+     "m": null
+    },
+    {
+     "id": "m0064",
+     "type": "button",
+     "props": {
+      "label": "VISIT THE UCC WEBSITE",
+      "href": "https://www.ucc.org",
+      "variant": "primary",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 49,
+      "w": 10,
+      "h": 2
+     },
+     "m": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,370 @@
+{
+ "title": "Our Leadership",
+ "slug": "leadership",
+ "description": "",
+ "sections": [
+  {
+   "id": "s0146",
+   "theme": "white",
+   "blocks": [
+    {
+     "id": "m0147",
+     "type": "text",
+     "props": {
+      "html": "<h2>Meet The Pastors</h2>"
+     },
+     "style": {
+      "align": "center"
+     },
+     "d": {
+      "x": 2,
+      "y": 0,
+      "w": 20,
+      "h": 3
+     },
+     "m": null
+    },
+    {
+     "id": "m0148",
+     "type": "staff",
+     "props": {
+      "cols": 2,
+      "shape": "round",
+      "items": [
+       {
+        "image": "/media/mike-3.jpg",
+        "name": "Pastor Mike Roth",
+        "role": "",
+        "html": "<p>Rev. Michael R. Roth enjoys backpacking and adventuring, as well as tending to his chickens at home. He also loves helping with overseas mission opportunities, and has been very involved with relief efforts in Haiti.</p><p>Mike grew up in Central Florida, received his BA from the University of Southern Florida in 1993, and went on to receive a Masters of Divinity from Eden Theological Seminary in 1996. During those years, he served churches in Florida, Illinois, and Missouri, did chaplaincy at Barnes Hospital, and served at Epworth Children’s Home.</p><p>After graduation, Mike served at Kirkwood UCC in St. Louis for 6 years as a Co‐Pastor. After getting married, he and Erica served together at Saron UCC in Linton, Indiana for 12 years before coming to St. Paul’s in summer of 2015.</p>",
+        "email": "mike.roth@sp4u.org"
+       },
+       {
+        "image": "/media/erica-252bstaff-252bpic.jpg",
+        "name": "Pastor Erica Roth",
+        "role": "",
+        "html": "<p>Rev. Erica K. Roth enjoys making silly sock creatures, reading, and spending creative time with their child.</p><p>Erica grew up in Tulsa, Oklahoma and attended Oklahoma State University, where she received her B.U.S. in Industrial Design in 1996. Continuing her education, she earned a Masters of Divinity from Eden Theological Seminary in 2000. During that time, Erica served at Every Child’s Hope Children’s Home in Wood River, Illinois, and as a student pastor at Kirkwood UCC.</p><p>After graduation, Erica served as the Youth Ministry Coordinator for the UCC’s Missouri Mid-South Conference and at St. John’s UCC in Chesterfield, Missouri. She and Mike served together at Saron UCC in Linton, Indiana for 12 years before coming to St. Paul’s in summer of 2015.</p>",
+        "email": "erica.roth@sp4u.org"
+       }
+      ]
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 4,
+      "w": 22,
+      "h": 14
+     },
+     "m": null
+    }
+   ]
+  },
+  {
+   "id": "s0149",
+   "theme": "light",
+   "blocks": [
+    {
+     "id": "m0150",
+     "type": "text",
+     "props": {
+      "html": "<h2>Meet Our Staff</h2>"
+     },
+     "style": {
+      "align": "center"
+     },
+     "d": {
+      "x": 2,
+      "y": 0,
+      "w": 20,
+      "h": 3
+     },
+     "m": null
+    },
+    {
+     "id": "m0151",
+     "type": "staff",
+     "props": {
+      "cols": 4,
+      "shape": "round",
+      "items": [
+       {
+        "image": "/media/tricia-coval.jpg",
+        "name": "Tricia Coval",
+        "role": "Chief of Staff",
+        "html": "",
+        "email": "administrator@sp4u.org"
+       },
+       {
+        "image": "/media/img-1788.jpg",
+        "name": "Natalie Harris",
+        "role": "Communications Technology Coordinator",
+        "html": "",
+        "email": "media@sp4u.org"
+       },
+       {
+        "image": "/media/tempimagep5ycsd.jpg",
+        "name": "Bruce Huggins",
+        "role": "Building & Grounds Manager",
+        "html": "",
+        "email": "maintenance@sp4u.org"
+       },
+       {
+        "image": "/media/jenn-k-1.jpg",
+        "name": "Jennifer Kreisz",
+        "role": "Secretary",
+        "html": "",
+        "email": "secretary@sp4u.org"
+       },
+       {
+        "image": "/media/jean-pretto.jpg",
+        "name": "Jean Pretto",
+        "role": "Choir Director",
+        "html": "",
+        "email": ""
+       },
+       {
+        "image": "/media/gail-robins.jpg",
+        "name": "Gail Robins",
+        "role": "Pianist",
+        "html": "",
+        "email": ""
+       },
+       {
+        "image": "/media/council-member-scott-schmitt.jpg",
+        "name": "Scott Schmitt",
+        "role": "Sound Tech",
+        "html": "",
+        "email": ""
+       },
+       {
+        "image": "/media/img-2392.jpeg",
+        "name": "Nancy Schmitz",
+        "role": "Treehouse Preschool Director",
+        "html": "",
+        "email": "nancys@sp4u.org"
+       }
+      ]
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 4,
+      "w": 22,
+      "h": 28
+     },
+     "m": null
+    }
+   ]
+  },
+  {
+   "id": "s0152",
+   "theme": "dark",
+   "blocks": [
+    {
+     "id": "m0153",
+     "type": "text",
+     "props": {
+      "html": "<h2>Church Council</h2><p>Our church council serves to support our pastors and staff, as well as guide our congregation spiritually. If you have a question for our Church Council, you can contact them by pressing the button below.</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 0,
+      "w": 18,
+      "h": 4
+     },
+     "m": null
+    },
+    {
+     "id": "m0154",
+     "type": "button",
+     "props": {
+      "label": "CONTACT CHURCH COUNCIL",
+      "href": "mailto:churchcouncil@sp4u.org",
+      "variant": "primary",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 5,
+      "w": 18,
+      "h": 2
+     },
+     "m": null
+    }
+   ]
+  },
+  {
+   "id": "s0155",
+   "theme": "white",
+   "blocks": [
+    {
+     "id": "m0156",
+     "type": "staff",
+     "props": {
+      "cols": 4,
+      "shape": "round",
+      "items": [
+       {
+        "image": "/media/donna-jahnke.jpg",
+        "name": "Donna Jahnke",
+        "role": "",
+        "html": "<p><strong>Council Co-President</strong></p><p>Class of 2025</p>",
+        "email": ""
+       },
+       {
+        "image": "/media/ginny-council.jpg",
+        "name": "Ginny VanHorn",
+        "role": "",
+        "html": "<p><strong>Council Co-President</strong></p><p>Class of 2025</p>",
+        "email": ""
+       },
+       {
+        "image": "/media/img-8097-2.jpg",
+        "name": "Amy Maus",
+        "role": "Class of 2025",
+        "html": "",
+        "email": ""
+       },
+       {
+        "image": "/media/karen-council.jpg",
+        "name": "Karen Stuckmeyer",
+        "role": "Class of 2025",
+        "html": "",
+        "email": ""
+       },
+       {
+        "image": "/media/img-0171.jpg",
+        "name": "Erin Reitter",
+        "role": "Class of 2026",
+        "html": "",
+        "email": ""
+       },
+       {
+        "image": "/media/img-0172.jpg",
+        "name": "Roy Hurlburt",
+        "role": "Class of 2026",
+        "html": "",
+        "email": ""
+       },
+       {
+        "image": "/media/img-0173.jpg",
+        "name": "Joyce Hoeing",
+        "role": "Class of 2026",
+        "html": "",
+        "email": ""
+       },
+       {
+        "image": "/media/img-0174.jpg",
+        "name": "Louis Steinhauser",
+        "role": "Class of 2026",
+        "html": "",
+        "email": ""
+       },
+       {
+        "image": "/media/chris-ware.jpg",
+        "name": "Chris Ware",
+        "role": "Class of 2027",
+        "html": "",
+        "email": ""
+       },
+       {
+        "image": "/media/donna-carroll.jpg",
+        "name": "Donna Carroll",
+        "role": "Class of 2027",
+        "html": "",
+        "email": ""
+       },
+       {
+        "image": "/media/stan-morrow.jpg",
+        "name": "Stan Morrow",
+        "role": "Class of 2027",
+        "html": "",
+        "email": ""
+       },
+       {
+        "image": "/media/greta.jpg",
+        "name": "Greta Buback-Brown",
+        "role": "Class of 2027",
+        "html": "",
+        "email": ""
+       }
+      ]
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 0,
+      "w": 22,
+      "h": 42
+     },
+     "m": null
+    }
+   ]
+  },
+  {
+   "id": "s0157",
+   "theme": "dark",
+   "blocks": [
+    {
+     "id": "m0158",
+     "type": "text",
+     "props": {
+      "html": "<h2>Other Resources</h2>"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 0,
+      "w": 18,
+      "h": 2
+     },
+     "m": null
+    }
+   ]
+  },
+  {
+   "id": "s0159",
+   "theme": "white",
+   "blocks": [
+    {
+     "id": "m0160",
+     "type": "text",
+     "props": {
+      "html": "<h3>Athletic Committee</h3>"
+     },
+     "style": {
+      "align": "center"
+     },
+     "d": {
+      "x": 3,
+      "y": 0,
+      "w": 17,
+      "h": 1
+     },
+     "m": null
+    },
+    {
+     "id": "m0161",
+     "type": "button",
+     "props": {
+      "label": "EMAIL ATHLETIC COMMITTEE",
+      "href": "mailto:athletic@sp4u.org",
+      "variant": "primary",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 2,
+      "w": 17,
+      "h": 2
+     },
+     "m": null
+    }
+   ]
+  }
+ ]
+}

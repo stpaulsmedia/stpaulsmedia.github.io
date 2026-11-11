@@ -1,0 +1,7 @@
+_capture/
+audio/
+node_modules/
+dist/
+.DS_Store
+.claude/
+Website Editor.app/

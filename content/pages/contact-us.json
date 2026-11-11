@@ -1,0 +1,102 @@
+{
+ "title": "Contact Us",
+ "slug": "contact-us",
+ "description": "Looking for a progressive, enriching church in St. Louis? Click here for service times, directions, and ways to get connected!",
+ "sections": [
+  {
+   "id": "s0350",
+   "theme": "dark",
+   "blocks": [
+    {
+     "id": "m0351",
+     "type": "text",
+     "props": {
+      "html": "<h1>Join us this Sunday!</h1>"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 0,
+      "w": 22,
+      "h": 3
+     },
+     "m": null
+    }
+   ]
+  },
+  {
+   "id": "s0352",
+   "theme": "white",
+   "blocks": [
+    {
+     "id": "m0353",
+     "type": "text",
+     "props": {
+      "html": "<h3><strong>Our Office</strong></h3><p><strong>St. Paul’s United Church of Christ</strong></p><p>5508 Telegraph Road<strong><br></strong>St. Louis, Missouri 63129</p><p><strong>Phone</strong><br><a href=\"tel:+13148923332\">(314) 892-3332</a></p><h3><strong>Our Services</strong></h3><ul><li><p>Heritage Service<strong></strong>- <strong>Sundays at 9am</strong></p></li><li><p>Connections Service<strong></strong>-<strong>Sundays at 10:45am</strong></p></li><li><p>Online via <a href=\"https://www.youtube.com/channel/UCrbUrKU7f3Lqznyqia2IBeQ/videos\"><strong>YouTube</strong></a> and <a href=\"https://www.facebook.com/stpauloakville\"><strong>Facebook</strong></a></p></li></ul>"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 0,
+      "w": 6,
+      "h": 14
+     },
+     "m": null
+    },
+    {
+     "id": "m0354",
+     "type": "map",
+     "props": {
+      "query": "5508 Telegraph Road, St. Louis, MO 63129",
+      "zoom": 14
+     },
+     "style": {},
+     "d": {
+      "x": 10,
+      "y": 0,
+      "w": 12,
+      "h": 12
+     },
+     "m": null
+    }
+   ]
+  },
+  {
+   "id": "s0355",
+   "theme": "dark",
+   "blocks": [
+    {
+     "id": "m0356",
+     "type": "text",
+     "props": {
+      "html": "<h1>Contact Us</h1><p>Want more information? Have a prayer request?</p><p>Contact us using the form below.</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 6,
+      "y": 0,
+      "w": 12,
+      "h": 6
+     },
+     "m": null
+    },
+    {
+     "id": "m0357",
+     "type": "gform",
+     "props": {
+      "url": "",
+      "label": "Open the form"
+     },
+     "style": {},
+     "d": {
+      "x": 6,
+      "y": 7,
+      "w": 12,
+      "h": 6
+     },
+     "m": null
+    }
+   ]
+  }
+ ]
+}

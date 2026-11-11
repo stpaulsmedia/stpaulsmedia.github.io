@@ -1,0 +1,88 @@
+{
+ "title": "Sermon Podcast",
+ "slug": "podcast",
+ "description": "Weekly sermons from St. Paul's United Church of Christ in Oakville, MO.",
+ "sections": [
+  {
+   "id": "s0420",
+   "theme": "accent",
+   "blocks": [
+    {
+     "id": "m0417",
+     "type": "text",
+     "d": {
+      "x": 2,
+      "y": 0,
+      "w": 14,
+      "h": 8
+     },
+     "m": null,
+     "props": {
+      "html": "<h1>Sermon Podcast</h1><p class=\"lead\">Weekly messages from St. Paul’s. Listen here, or subscribe wherever you get your podcasts.</p>"
+     },
+     "style": {}
+    },
+    {
+     "id": "m0418",
+     "type": "button",
+     "d": {
+      "x": 2,
+      "y": 9,
+      "w": 5,
+      "h": 2
+     },
+     "m": null,
+     "props": {
+      "label": "Listen on Spotify",
+      "href": "https://open.spotify.com/show/5QKY2vEayubUT6AP5EKXwL",
+      "variant": "primary",
+      "size": "",
+      "align": "left"
+     },
+     "style": {}
+    },
+    {
+     "id": "m0419",
+     "type": "button",
+     "d": {
+      "x": 7,
+      "y": 9,
+      "w": 5,
+      "h": 2
+     },
+     "m": null,
+     "props": {
+      "label": "Watch on YouTube",
+      "href": "https://www.youtube.com/channel/UCrbUrKU7f3Lqznyqia2IBeQ",
+      "variant": "outline",
+      "size": "",
+      "align": "left"
+     },
+     "style": {}
+    }
+   ]
+  },
+  {
+   "id": "s0422",
+   "theme": "white",
+   "blocks": [
+    {
+     "id": "m0421",
+     "type": "sermons",
+     "d": {
+      "x": 3,
+      "y": 0,
+      "w": 18,
+      "h": 40
+     },
+     "m": null,
+     "props": {
+      "count": 200,
+      "layout": "list"
+     },
+     "style": {}
+    }
+   ]
+  }
+ ]
+}

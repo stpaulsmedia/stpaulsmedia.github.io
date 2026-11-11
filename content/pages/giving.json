@@ -1,0 +1,205 @@
+{
+ "title": "Give",
+ "slug": "giving",
+ "description": "",
+ "sections": [
+  {
+   "id": "s0276",
+   "theme": "accent",
+   "blocks": [
+    {
+     "id": "m0277",
+     "type": "text",
+     "props": {
+      "html": "<h1>GIVE ONLINE</h1><p>Your contributions help our church support people in the Oakville community and St. Louis area.</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 0,
+      "w": 18,
+      "h": 4
+     },
+     "m": null
+    }
+   ],
+   "bgImage": "/media/unsplash-image-xmvqvecdsqi.jpg",
+   "bgFocus": "50% 50%",
+   "overlay": "#000000",
+   "overlayOpacity": 60
+  },
+  {
+   "id": "s0278",
+   "theme": "white",
+   "blocks": [
+    {
+     "id": "m0279",
+     "type": "text",
+     "props": {
+      "html": "<h2>Ways to Give</h2>"
+     },
+     "style": {
+      "align": "center"
+     },
+     "d": {
+      "x": 2,
+      "y": 0,
+      "w": 20,
+      "h": 3
+     },
+     "m": null
+    },
+    {
+     "id": "m0280",
+     "type": "cards",
+     "props": {
+      "cols": 2,
+      "style": "card",
+      "ratio": "4/3",
+      "items": [
+       {
+        "image": "/media/phone-icon.png",
+        "title": "Give Online",
+        "html": "<p>Give anywhere, any time from your mobile device or computer.</p>",
+        "label": "GIVE HERE",
+        "href": "https://www.eservicepayments.com/cgi-bin/Vanco_ver3.vps?appver3=6qiZtRwgwggAWZMOSyS0IRwkUNFwAGAKDO91weMtg3Ooj588s60QHww8LVapakVk4IfhGMGdGg2JlQdU-f8-j9wSumbTtrTl2mIRMN_8inZh1uJb2FIoKtTjUUgLw2isbkwJWNPJmIB9sEzhGC_mku1_VBowM39OEHBKoqOhSSZUDK5xpCpO_AnGbNrDRqqIxbB84OS2zoLl2iJ8DgFAmw%3D%3D&ver=3"
+       },
+       {
+        "image": "/media/mail-icon.png",
+        "title": "Give by Mail",
+        "html": "<p>Mail your donations to:</p><p><strong>St. Paul’s United Church of Christ</strong></p><p><strong>5508 Telegraph Road</strong></p><p><strong>St. Louis, MO 63129</strong></p>",
+        "label": "",
+        "href": ""
+       }
+      ]
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 4,
+      "w": 22,
+      "h": 16
+     },
+     "m": null
+    }
+   ]
+  },
+  {
+   "id": "s0281",
+   "theme": "light",
+   "blocks": [
+    {
+     "id": "m0282",
+     "type": "image",
+     "props": {
+      "src": "/media/giving-web.jpg",
+      "alt": "",
+      "fit": "cover",
+      "href": "",
+      "caption": "",
+      "focus": "50% 50%"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 0,
+      "w": 10,
+      "h": 14
+     },
+     "m": null
+    },
+    {
+     "id": "m0283",
+     "type": "text",
+     "props": {
+      "html": "<h2>Thank you for your support!</h2><p>God provides for the ministry of our church through your tithes and offerings. Your gifts are honored with faithful stewardship, ethical business practices, and accountability to our lead team and denomination.</p><p>It’s more than keeping the lights on and the gears turning. It’s about personal worship to God and handing Him back what He already owns. It’s about lives changing through the transformative power of the Gospel in our region and beyond.</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 0,
+      "w": 10,
+      "h": 13
+     },
+     "m": null
+    },
+    {
+     "id": "m0284",
+     "type": "text",
+     "props": {
+      "html": "<p>Our Church is a non-profit 501 (C) (3) tax-exempt organization, meaning gifts to our Church are tax deductible.</p><p>If you attend a weekend service, tithes and offerings can also be dropped in the offering plate or given to an usher.</p><p>If you are a member, remember that you can always drop your assigned Giving Envelope in the mail!</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 14,
+      "w": 10,
+      "h": 8
+     },
+     "m": null
+    }
+   ]
+  },
+  {
+   "id": "s0285",
+   "theme": "dark",
+   "blocks": [
+    {
+     "id": "m0286",
+     "type": "text",
+     "props": {
+      "html": "<h3>“But who am I, and who are my people, that we should be able to give as generously as this? Everything comes from you, and we have given you only what comes from your hand.”</h3><h3>— 1 Chronicles 29:14</h3>"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 0,
+      "w": 18,
+      "h": 6
+     },
+     "m": null
+    }
+   ]
+  },
+  {
+   "id": "s0287",
+   "theme": "white",
+   "blocks": [
+    {
+     "id": "m0288",
+     "type": "text",
+     "props": {
+      "html": "<p>God’s Word calls us to obediently <strong>tithe</strong> (give 10%) of what He gives us, to do His kingdom work. <strong>Offerings</strong> given to God are gifts above and beyond our tithes. Tithes and offerings are vital to the health of Our Church and provide for all the areas of ministry and outreach programs.</p><h3>Our Goal is 100% participation in giving towards the Generous Future.</h3><p>That might mean being lavishly generous or simply sacrificial. What you give should be decided between you and God, and should be given from a worshipful heart.</p><p>Prayerfully consider:</p><h3>“Each of you should give what you have decided in your heart what to give, not reluctantly of under compulsion, for God loves a cheerful giver.</h3><h3>And God is able to bless you abundantly, so that in all things at all times, having all that you need, you will abound in every good work.”</h3><h3>— 2 Corinthians 9:7-8</h3><p>We are asking that you prayerfully support and sacrificially give to fulfill God’s vision for the future of our Church. Come alongside and be part of the next phase of our miraculous story, and prepare to be blessed.<br>Thank you for partnering and investing in the ministry of Our Church and in our community as well as giving to further God’s Kingdom!</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 0,
+      "w": 18,
+      "h": 25
+     },
+     "m": null
+    },
+    {
+     "id": "m0289",
+     "type": "button",
+     "props": {
+      "label": "BACK TO HOME",
+      "href": "/",
+      "variant": "outline",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 26,
+      "w": 18,
+      "h": 2
+     },
+     "m": null
+    }
+   ]
+  }
+ ]
+}

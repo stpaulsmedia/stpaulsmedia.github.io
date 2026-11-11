@@ -1,0 +1,393 @@
+{
+ "title": "Adult Ministry",
+ "slug": "adult-ministry",
+ "description": "Our small groups let you meet new friends in Christ and enrich your life. Find your place to belong at St. Paul's!",
+ "sections": [
+  {
+   "id": "s0208",
+   "theme": "accent",
+   "blocks": [
+    {
+     "id": "m0209",
+     "type": "text",
+     "props": {
+      "html": "<h1>ADULT MINISTRIES</h1>"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 0,
+      "w": 22,
+      "h": 3
+     },
+     "m": null
+    }
+   ],
+   "bgImage": "/media/unsplash-image-kdeqa3atnby.jpg",
+   "bgFocus": "50% 50%",
+   "overlay": "#000000",
+   "overlayOpacity": 60
+  },
+  {
+   "id": "s0210",
+   "theme": "light",
+   "blocks": [
+    {
+     "id": "m0211",
+     "type": "image",
+     "props": {
+      "src": "/media/img-7080.jpg",
+      "alt": "",
+      "fit": "cover",
+      "href": "",
+      "caption": "",
+      "focus": "50% 50%"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 0,
+      "w": 8,
+      "h": 9
+     },
+     "m": null
+    },
+    {
+     "id": "m0212",
+     "type": "text",
+     "props": {
+      "html": "<h3>Women’s Ministry</h3><p>Our women's group is a place for women of all ages to connect and learn on their respective spiritual journeys. Most meetings focus on either a Bible Study or Book Discussion, with topics that are relevant to life and current events. This group has many events throughout the year, including their annual spiritual retreat.</p><p>For more information on our Women’s group events and resources, visit our events page!</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 0,
+      "w": 10,
+      "h": 10
+     },
+     "m": null
+    },
+    {
+     "id": "m0213",
+     "type": "button",
+     "props": {
+      "label": "EVENTS",
+      "href": "/events",
+      "variant": "primary",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 11,
+      "w": 10,
+      "h": 2
+     },
+     "m": null
+    }
+   ]
+  },
+  {
+   "id": "s0214",
+   "theme": "white",
+   "blocks": [
+    {
+     "id": "m0215",
+     "type": "image",
+     "props": {
+      "src": "/media/andrik-langfield-1-yqioijio8-unsplash.jpg",
+      "alt": "",
+      "fit": "cover",
+      "href": "",
+      "caption": "",
+      "focus": "50% 50%"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 0,
+      "w": 8,
+      "h": 9
+     },
+     "m": null
+    },
+    {
+     "id": "m0216",
+     "type": "text",
+     "props": {
+      "html": "<h3>Men’s Prayer Breakfast</h3><p>A small group for men focused on fellowship and food. Meetings are held every Thursday at a variety of local restaurants. For more information, contact the church office.</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 0,
+      "w": 10,
+      "h": 5
+     },
+     "m": null
+    },
+    {
+     "id": "m0217",
+     "type": "button",
+     "props": {
+      "label": "CONTACT US",
+      "href": "mailto:officemanager@sp4u.org?subject=Men's%20Prayer%20Breakfast",
+      "variant": "primary",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 6,
+      "w": 10,
+      "h": 2
+     },
+     "m": null
+    }
+   ]
+  },
+  {
+   "id": "s0218",
+   "theme": "light",
+   "blocks": [
+    {
+     "id": "m0219",
+     "type": "image",
+     "props": {
+      "src": "/media/dog-1.png",
+      "alt": "",
+      "fit": "cover",
+      "href": "",
+      "caption": "",
+      "focus": "50% 50%"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 0,
+      "w": 8,
+      "h": 9
+     },
+     "m": null
+    },
+    {
+     "id": "m0220",
+     "type": "text",
+     "props": {
+      "html": "<h3>Disciples of God (DOG)</h3><p>A group for adults with developmental disabilities to hang out, make friends, and help serve the community! The DOG Group meets monthly and participates in events such as bowling, mission projects, and bible studies. Please contact Pastor Erica for more information about this group, or click the button below!</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 0,
+      "w": 10,
+      "h": 7
+     },
+     "m": null
+    },
+    {
+     "id": "m0221",
+     "type": "button",
+     "props": {
+      "label": "CONTACT US",
+      "href": "mailto:erica.roth@sp4u.org?subject=DOG%20Group%20Information",
+      "variant": "primary",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 8,
+      "w": 10,
+      "h": 2
+     },
+     "m": null
+    }
+   ]
+  },
+  {
+   "id": "s0222",
+   "theme": "white",
+   "blocks": [
+    {
+     "id": "m0223",
+     "type": "image",
+     "props": {
+      "src": "/media/tempimage5uzedq.jpg",
+      "alt": "",
+      "fit": "cover",
+      "href": "",
+      "caption": "",
+      "focus": "50% 50%"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 0,
+      "w": 8,
+      "h": 9
+     },
+     "m": null
+    },
+    {
+     "id": "m0224",
+     "type": "text",
+     "props": {
+      "html": "<h3>Community &amp; Volunteer Groups</h3><p>We believe that true fellowship and spiritual growth happen through service. Whether you’re a part of our athletic committee, praise band, christian education programs, or other groups, we have a place for you to belong and contribute!</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 0,
+      "w": 10,
+      "h": 7
+     },
+     "m": null
+    },
+    {
+     "id": "m0225",
+     "type": "button",
+     "props": {
+      "label": "VOLUNTEER OPPORTUNITIES",
+      "href": "/volunteer-at-stpauls",
+      "variant": "primary",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 8,
+      "w": 10,
+      "h": 2
+     },
+     "m": null
+    }
+   ]
+  },
+  {
+   "id": "s0227",
+   "theme": "light",
+   "blocks": [
+    {
+     "id": "m0228",
+     "type": "text",
+     "props": {
+      "html": "<h2>Substance Abuse Support Groups</h2>"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 0,
+      "w": 22,
+      "h": 2
+     },
+     "m": null
+    },
+    {
+     "id": "m0229",
+     "type": "accordion",
+     "props": {
+      "items": [
+       {
+        "title": "Alcoholics Anonymous",
+        "html": "<p>A support group for people struggling with alcohol addiction.</p><p><strong>Friday evenings • 7:30pm • Adult Classroom</strong></p><p><a href=\"https://aastl.org\"><strong>LEARN MORE</strong></a></p>"
+       },
+       {
+        "title": "Al-Anon",
+        "html": "<p>A support group for friends and families of problem drinkers.</p><p><strong>Tuesday evenings • 7:30pm • Adult Classroom</strong></p><p><a href=\"https://www.stl-al-anon.org\"><strong>LEARN MORE</strong></a></p>"
+       },
+       {
+        "title": "CoDA",
+        "html": "<p>A program of recovery from codependence in relationships.</p><p><strong>Thursday evenings • 7 p.m. • Adult Classroom</strong></p><p><a href=\"https://coda.org/meeting/thursday-sharing-tree-coda-group/\"><strong>LEARN MORE</strong></a></p>"
+       }
+      ]
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 3,
+      "w": 22,
+      "h": 9
+     },
+     "m": null
+    }
+   ]
+  },
+  {
+   "id": "s0230",
+   "theme": "white",
+   "blocks": [
+    {
+     "id": "m0231",
+     "type": "text",
+     "props": {
+      "html": "<h2>Other Groups</h2>"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 0,
+      "w": 22,
+      "h": 2
+     },
+     "m": null
+    },
+    {
+     "id": "m0232",
+     "type": "accordion",
+     "props": {
+      "items": [
+       {
+        "title": "DivorceCare",
+        "html": "<p>A group for those who have gone through or are experiencing a divorce.</p><p><strong>Thursday evenings • 6:30pm</strong></p><p><strong>VIEW CALENDAR</strong></p>"
+       },
+       {
+        "title": "Discussion Group",
+        "html": "<p>This group investigates various religious topics with questioning minds, such as the Old and New Testaments, biblical writers, and other religious beliefs.</p><p>Discussion Group is built on exploring everyday topics in a nonjudgemental atmosphere, using outside sources as a foundation for personal discovery and understanding our faith. Suggestions for subjects to cover are always welcome and accepted!</p><p><strong>Thursdays • 2:30pm • Adult Lounge</strong></p>"
+       },
+       {
+        "title": "Friendship Circle",
+        "html": "<p>An evening women’s fellowship program.</p><p><strong>2nd Thursday of the month</strong> • <strong>7 pm</strong></p>"
+       },
+       {
+        "title": "Conscious Body Alignment",
+        "html": "<p>An exercise program using Tai Chi based movements from a chair to help focus on body awareness and breath. The deep breathing and movements help strengthen the body's inner core, as well as calm your spirit.</p><p>Taught by a professional instructor, this class is a must for those with balance issues or stress concerns. The movements will keep you flexible as you journey through life and learning deep breathing will allow you to calm yourself when needed.</p><p><strong>Thursday mornings • 10:30 am • Heritage Room</strong></p>"
+       }
+      ]
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 3,
+      "w": 22,
+      "h": 12
+     },
+     "m": null
+    },
+    {
+     "id": "m0233",
+     "type": "button",
+     "props": {
+      "label": "BACK TO HOME",
+      "href": "/",
+      "variant": "outline",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 18,
+      "w": 22,
+      "h": 2
+     },
+     "m": null
+    }
+   ]
+  }
+ ]
+}

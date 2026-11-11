@@ -1,0 +1,111 @@
+{
+ "title": "Teams",
+ "slug": "teams",
+ "description": "Join a team at St. Paul's UCC.",
+ "sections": [
+  {
+   "id": "s0358",
+   "theme": "dark",
+   "blocks": [
+    {
+     "id": "m0359",
+     "type": "text",
+     "props": {
+      "html": "<h1>Join a Volunteer Team!</h1>"
+     },
+     "style": {},
+     "d": {
+      "x": 0,
+      "y": 0,
+      "w": 18,
+      "h": 3
+     },
+     "m": null
+    },
+    {
+     "id": "m0360",
+     "type": "text",
+     "props": {
+      "html": "<h3>Team work makes the dream work!</h3>"
+     },
+     "style": {},
+     "d": {
+      "x": 0,
+      "y": 3,
+      "w": 18,
+      "h": 2
+     },
+     "m": null
+    }
+   ],
+   "minHeight": 55
+  },
+  {
+   "id": "s0361",
+   "theme": "white",
+   "blocks": [
+    {
+     "id": "m0362",
+     "type": "staff",
+     "props": {
+      "cols": 4,
+      "shape": "round",
+      "items": [
+       {
+        "image": "/media/af0abf-image-asset.jpeg",
+        "name": "Liturgist",
+        "role": "",
+        "html": "<p>If you like to lead people in thoughtful prayers and liturgical elements, this is the Team for you. The Liturgy Team provides a space to practice public speaking in a loving and low-stakes environment. Readings and Prayers will be provided to you so there’s no need to write your own material.</p>",
+        "email": "media@sp4u.org"
+       },
+       {
+        "image": "/media/unsplash-image-phs37wg8cqg.jpg",
+        "name": "Worship Band (10:45 Service)",
+        "role": "",
+        "html": "<p>Calling all musicians and vocalists of any skill range! Do you sing or play an instrument? Or are you learning an instrument and looking for a place to get some practical experience in a band? You are welcome on the team!</p>",
+        "email": ""
+       },
+       {
+        "image": "/media/7d459e-image-asset.jpeg",
+        "name": "Tech Team",
+        "role": "",
+        "html": "<p>The St. Paul’s Tech Team runs the sound, screens, and cameras for the Sunday Services, all from the safety and comfort of the tech booth. We are always looking for more people to help in the booth at any skill level, and we will teach you everything you need to know!</p>",
+        "email": ""
+       },
+       {
+        "image": "/media/unsplash-image-b-zi7r-qidq.jpg",
+        "name": "Greeter/Usher",
+        "role": "",
+        "html": "<p>If you can greet people with a warm smile and hand them a bulletin or communion elements at the door, then this is the team for you!</p>",
+        "email": "media@sp4u.org"
+       },
+       {
+        "image": "/media/unsplash-image-vx15dcnbnsg.jpg",
+        "name": "Candle Lighter",
+        "role": "",
+        "html": "<p>Our Candle Lighters are responsible for lighting the candles on the altar at the beginning of service, representing the presence of Christ among us; and extinguishing the flames at the end of the service.</p>",
+        "email": "media@sp4u.org"
+       },
+       {
+        "image": "/media/unsplash-image-1q2fo7bx-pk.jpg",
+        "name": "Sunday School Teacher/Helper",
+        "role": "",
+        "html": "<p>Our Sunday School teachers and helpers work each week with our most special congregants. Our lessons are planned in advance from curriculum, and easy to deliver. If you don’t like the idea of teaching, we always need volunteers to help in other ways.</p>",
+        "email": "erica.roth@sp4u.org"
+       }
+      ]
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 0,
+      "w": 22,
+      "h": 28
+     },
+     "m": null
+    }
+   ]
+  }
+ ],
+ "hidden": true
+}

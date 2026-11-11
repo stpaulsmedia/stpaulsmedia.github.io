@@ -1,0 +1,308 @@
+{
+ "title": "TreeHouse Enrollment",
+ "slug": "treehouse/enroll",
+ "description": "Click here for enrollment information for our Faith-Based childcare in the Oakville and St. Louis areas!",
+ "sections": [
+  {
+   "id": "s0331",
+   "theme": "dark",
+   "blocks": [
+    {
+     "id": "m0332",
+     "type": "text",
+     "props": {
+      "html": "<h1>TREEHOUSE ENROLLMENT</h1>"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 0,
+      "w": 18,
+      "h": 3
+     },
+     "m": null
+    }
+   ]
+  },
+  {
+   "id": "s0333",
+   "theme": "white",
+   "blocks": [
+    {
+     "id": "m0334",
+     "type": "text",
+     "props": {
+      "html": "<h3>Infant, Toddler, and Preschool Enrollment</h3><p>Families of Infants, Toddlers, and Preschool children must complete the following and return it to the Preschool Office prior to your child’s first day:</p><ul><li><p><strong>License Exempt Center Enrollment Form</strong></p></li><li><p><strong>Preschool Physician Waiver signed by a physician</strong></p></li><li><p><strong>Up to Date Shot Record</strong></p></li><li><p><strong>Notice of Parental Responsibility</strong></p></li><li><p><strong>Personal Information Card (2)</strong></p></li><li><p><strong>Child Care Payment Authorization Form</strong></p></li><li><p><strong>Voided check for ACH withdrawal</strong></p></li></ul>"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 0,
+      "w": 10,
+      "h": 16
+     },
+     "m": null
+    },
+    {
+     "id": "m0335",
+     "type": "button",
+     "props": {
+      "label": "WELCOME LETTER",
+      "href": "/media/files/treehouse-welcome-letter-2025.pdf",
+      "variant": "outline",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 0,
+      "w": 10,
+      "h": 2
+     },
+     "m": null
+    },
+    {
+     "id": "m0336",
+     "type": "button",
+     "props": {
+      "label": "2026 CALENDAR",
+      "href": "/media/files/2026treehouse-calendar.docx",
+      "variant": "outline",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 3,
+      "w": 10,
+      "h": 2
+     },
+     "m": null
+    },
+    {
+     "id": "m0337",
+     "type": "button",
+     "props": {
+      "label": "TUITION INFORMATION",
+      "href": "/media/files/treehousefeesheet2025-26-3pdf.pdf",
+      "variant": "outline",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 6,
+      "w": 10,
+      "h": 2
+     },
+     "m": null
+    },
+    {
+     "id": "m0338",
+     "type": "button",
+     "props": {
+      "label": "ENROLLMENT FORM",
+      "href": "/media/files/enrollment-form-updated-2026v2.pdf",
+      "variant": "outline",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 9,
+      "w": 10,
+      "h": 2
+     },
+     "m": null
+    },
+    {
+     "id": "m0339",
+     "type": "button",
+     "props": {
+      "label": "MEDICAL FORM",
+      "href": "/media/files/treehousemedical-form.pdf",
+      "variant": "outline",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 12,
+      "w": 10,
+      "h": 2
+     },
+     "m": null
+    },
+    {
+     "id": "m0340",
+     "type": "button",
+     "props": {
+      "label": "MO INFANT/TODDLER FEEDING PLAN",
+      "href": "/media/files/missouri-infant-and-toddler-feeding-and-care-plan.pdf",
+      "variant": "outline",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 15,
+      "w": 10,
+      "h": 2
+     },
+     "m": null
+    },
+    {
+     "id": "m0341",
+     "type": "button",
+     "props": {
+      "label": "NOTICE OF PARENTAL RESPONSIBILITY",
+      "href": "/media/files/npr-relgious-organization-8-2026-1.pdf",
+      "variant": "outline",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 18,
+      "w": 10,
+      "h": 2
+     },
+     "m": null
+    },
+    {
+     "id": "m0342",
+     "type": "button",
+     "props": {
+      "label": "ACH AUTHORIZATION",
+      "href": "/media/files/direct-payment-authorization-form.docx",
+      "variant": "outline",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 21,
+      "w": 10,
+      "h": 2
+     },
+     "m": null
+    },
+    {
+     "id": "m0343",
+     "type": "button",
+     "props": {
+      "label": "TREEHOUSE PARENT HANDBOOK",
+      "href": "/media/files/treehouse-parent-handbookdocx.pdf",
+      "variant": "outline",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 24,
+      "w": 10,
+      "h": 2
+     },
+     "m": null
+    },
+    {
+     "id": "m0344",
+     "type": "button",
+     "props": {
+      "label": "PHOTO RELEASE FORM",
+      "href": "/media/files/treehouse-photo-permission-form2026.pdf",
+      "variant": "outline",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 27,
+      "w": 10,
+      "h": 2
+     },
+     "m": null
+    }
+   ]
+  },
+  {
+   "id": "s0345",
+   "theme": "dark",
+   "blocks": [
+    {
+     "id": "m0346",
+     "type": "text",
+     "props": {
+      "html": "<h2>Contact Us</h2>"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 0,
+      "w": 10,
+      "h": 2
+     },
+     "m": null
+    },
+    {
+     "id": "m0347",
+     "type": "text",
+     "props": {
+      "html": "<p>Have a question about the TreeHouse program or enrollment? Contact us using the form attached, or call us at <a href=\"callto: #\"><strong>314 894-0079</strong></a></p>"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 3,
+      "w": 10,
+      "h": 3
+     },
+     "m": null
+    },
+    {
+     "id": "m0348",
+     "type": "gform",
+     "props": {
+      "url": "",
+      "label": "Open the form"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 7,
+      "w": 10,
+      "h": 6
+     },
+     "m": null
+    },
+    {
+     "id": "m0349",
+     "type": "map",
+     "props": {
+      "query": "5508 Telegraph Road, St. Louis, MO 63129",
+      "zoom": 14
+     },
+     "style": {},
+     "d": {
+      "x": 14,
+      "y": 2,
+      "w": 8,
+      "h": 12
+     },
+     "m": null
+    }
+   ],
+   "minHeight": 55
+  }
+ ]
+}

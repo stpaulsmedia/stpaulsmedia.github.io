@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Website Editor</title>
+<link rel="stylesheet" href="editor.css">
+</head>
+<body>
+<header id="top">
+  <div class="top-l"><strong class="brand">Website Editor</strong><button id="doc-title" title="Page settings"></button></div>
+  <div class="top-c">
+    <div class="seg"><button id="m-d" class="on">Desktop</button><button id="m-m">Phone</button></div>
+    <button id="undo" class="icon" title="Undo (⌘Z)">↶</button><button id="redo" class="icon" title="Redo (⇧⌘Z)">↷</button>
+  </div>
+  <div class="top-r"><a id="view" target="_blank" class="link">View page ↗</a><button id="save">Saved</button><button id="publish" class="btn-p">Publish…</button></div>
+</header>
+<div id="body">
+  <aside id="left">
+    <nav id="tabs"><button data-tab="pages">Pages</button><button data-tab="add">Add</button><button data-tab="site">Site</button></nav>
+    <div id="side"></div>
+  </aside>
+  <div id="stage"><iframe id="canvas" src="canvas.html" title="Page preview"></iframe></div>
+  <aside id="right"><div id="inspector"></div></aside>
+</div>
+<datalist id="links"></datalist>
+<script src="/_src/render.js"></script>
+<script src="editor.js"></script>
+</body>
+</html>

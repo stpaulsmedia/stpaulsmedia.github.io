@@ -1,0 +1,227 @@
+{
+ "title": "Youth Ministry",
+ "slug": "youth-ministry",
+ "description": "St. Paul's Youth is a welcoming and inclusive place for teens to be themselves! We're giving youth in the St. Louis area opportunities to make friends and serve their community.",
+ "sections": [
+  {
+   "id": "s0234",
+   "theme": "accent",
+   "blocks": [
+    {
+     "id": "m0235",
+     "type": "text",
+     "props": {
+      "html": "<h1>YOUTH AT ST. PAUL’S</h1>"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 0,
+      "w": 18,
+      "h": 3
+     },
+     "m": null
+    }
+   ],
+   "bgImage": "/media/img-7411-2.jpg",
+   "bgFocus": "50% 50%",
+   "overlay": "#000000",
+   "overlayOpacity": 60
+  },
+  {
+   "id": "s0236",
+   "theme": "white",
+   "blocks": [
+    {
+     "id": "m0237",
+     "type": "button",
+     "props": {
+      "label": "September 2024 - January 2025 Youth Group Schedule",
+      "href": "/media/files/fall-24.pdf",
+      "variant": "primary",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 6,
+      "y": 0,
+      "w": 6,
+      "h": 3
+     },
+     "m": null
+    },
+    {
+     "id": "m0238",
+     "type": "button",
+     "props": {
+      "label": "2024-2025 Confirmation Schedule",
+      "href": "/media/files/2024-2025-schedule.pdf",
+      "variant": "primary",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 0,
+      "w": 6,
+      "h": 3
+     },
+     "m": null
+    }
+   ]
+  },
+  {
+   "id": "s0239",
+   "theme": "white",
+   "blocks": [
+    {
+     "id": "m0240",
+     "type": "image",
+     "props": {
+      "src": "/media/untitled-design-7.jpg",
+      "alt": "",
+      "fit": "cover",
+      "href": "",
+      "caption": "",
+      "focus": "50% 50%"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 0,
+      "w": 10,
+      "h": 12
+     },
+     "m": null
+    },
+    {
+     "id": "m0241",
+     "type": "text",
+     "props": {
+      "html": "<h3>SALT YOUTH</h3><p>A group for <strong>3rd, 4th, and 5th graders</strong> that meets <strong>monthly</strong>.</p><p>This group kicks off with an annual lock-in, and then transitions into other monthly activities throughout the year. Some activities include service events, mission trips, and the annual Ooey-Gooey event!</p><h3><a href=\"/events\">Visit our events page for meeting times</a></h3>"
+     },
+     "style": {},
+     "d": {
+      "x": 13,
+      "y": 1,
+      "w": 10,
+      "h": 10
+     },
+     "m": null
+    },
+    {
+     "id": "m0242",
+     "type": "image",
+     "props": {
+      "src": "/media/cookout-3.png",
+      "alt": "",
+      "fit": "cover",
+      "href": "",
+      "caption": "",
+      "focus": "50% 50%"
+     },
+     "style": {},
+     "d": {
+      "x": 13,
+      "y": 13,
+      "w": 10,
+      "h": 12
+     },
+     "m": null
+    },
+    {
+     "id": "m0243",
+     "type": "text",
+     "props": {
+      "html": "<h3>ST. PAUL’S YOUTH</h3><p>A group for <strong>6th – 12th graders</strong>that meets <strong>weekly</strong>.</p><p>Youth are invited to compete in fun challenges, hang out with friends while making new ones, and strengthen their faith in God. Our youth group also takes part in lock-ins, mission trips, conference retreats, scavenger hunts, and more!</p><h3>Sundays • 6:00pm</h3>"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 14,
+      "w": 10,
+      "h": 10
+     },
+     "m": null
+    },
+    {
+     "id": "m0244",
+     "type": "image",
+     "props": {
+      "src": "/media/confirmation.jpg",
+      "alt": "",
+      "fit": "cover",
+      "href": "",
+      "caption": "",
+      "focus": "50% 50%"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 26,
+      "w": 10,
+      "h": 14
+     },
+     "m": null
+    },
+    {
+     "id": "m0245",
+     "type": "text",
+     "props": {
+      "html": "<h3>CHRISTIANEDUCATION</h3><p>St. Paul’s Confirmation Class is an eight-month program offered every other year for youth in 7th and 8th grade. and is led by Pastor Erica Roth. Confirmation Class meets every Sunday from 4:30pm - 5:30pm during September - May.</p><p>Led by Pastor Erica Roth, confirmation focuses on faith formation, questions of faith, building Bible knowledge, mission work, and fellowship.  Confirmands are required to complete Worship Reports and share reflections about key topics covered.</p><p>Each class attends the Conference Middle School youth event in the fall and takes a mission trip in the spring.</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 13,
+      "y": 27,
+      "w": 10,
+      "h": 13
+     },
+     "m": null
+    },
+    {
+     "id": "m0246",
+     "type": "button",
+     "props": {
+      "label": "ST. PAUL'S UCC HEALTH FORM",
+      "href": "/media/files/health-form-photo-release.pdf",
+      "variant": "primary",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 42,
+      "w": 21,
+      "h": 2
+     },
+     "m": null
+    }
+   ]
+  },
+  {
+   "id": "s0247",
+   "theme": "light",
+   "blocks": [
+    {
+     "id": "m0248",
+     "type": "text",
+     "props": {
+      "html": "<h2>Youth Mission Trips</h2><p>St. Paul’s believes that God’s world is amazing and diverse. We hope to expose our young members to different aspects of the God’s creation through a variety of mission trips and cultural exchanges.</p><p>Our SALT youth group goes on a yearly weekend mission trip—often to a rural community, while our Jr. High and Sr. High youth group are taken on longer mission trips (up to a week) yearly. Through these missions, our youth have the opportunity to learn about God’s people and their struggles by experiencing such situations as hurricane devastation in New Orleans or children living homeless in Kentucky. By understanding and helping others in the face of adversity, we hope that our youth can contribute to the mission of the UCC — to create a just and peaceful world for all.</p><p>Our Sr. High youth also go on an overseas mission experience every four years, in order for them to experience other cultures and perspectives beyond their own community.</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 0,
+      "w": 18,
+      "h": 13
+     },
+     "m": null
+    }
+   ]
+  }
+ ]
+}

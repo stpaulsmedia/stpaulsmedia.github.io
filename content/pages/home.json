@@ -1,0 +1,538 @@
+{
+ "title": "Home",
+ "slug": "home",
+ "description": "Looking for a new church home? St. Paul's is an inclusive place of worship, refuge, and outreach in the St. Louis area.",
+ "sections": [
+  {
+   "id": "s0380",
+   "theme": "dark",
+   "blocks": [
+    {
+     "id": "m0377",
+     "type": "text",
+     "d": {
+      "x": 1,
+      "y": 0,
+      "w": 14,
+      "h": 11
+     },
+     "m": null,
+     "props": {
+      "html": "<p class=\"eyebrow\">Join us this week</p><h1>A Place of Worship, Refuge, and Outreach</h1><p class=\"lead\">Sundays at 9:00 am (Heritage) and 10:45 am (Connections)<br>5508 Telegraph Road, Oakville</p>"
+     },
+     "style": {}
+    },
+    {
+     "id": "m0378",
+     "type": "button",
+     "d": {
+      "x": 1,
+      "y": 12,
+      "w": 5,
+      "h": 2
+     },
+     "m": null,
+     "props": {
+      "label": "Plan a Visit",
+      "href": "/new-guests",
+      "variant": "primary",
+      "size": "",
+      "align": "left"
+     },
+     "style": {}
+    },
+    {
+     "id": "m0379",
+     "type": "button",
+     "d": {
+      "x": 6,
+      "y": 12,
+      "w": 5,
+      "h": 2
+     },
+     "m": null,
+     "props": {
+      "label": "Watch Online",
+      "href": "https://www.youtube.com/channel/UCrbUrKU7f3Lqznyqia2IBeQ/streams",
+      "variant": "outline",
+      "size": "",
+      "align": "left"
+     },
+     "style": {}
+    }
+   ],
+   "bgImage": "/media/church-exterior.png",
+   "bgFocus": "50% 50%",
+   "overlay": "#000000",
+   "overlayOpacity": 50,
+   "minHeight": 78
+  },
+  {
+   "id": "s0384",
+   "theme": "light",
+   "blocks": [
+    {
+     "id": "m0381",
+     "type": "image",
+     "d": {
+      "x": 1,
+      "y": 0,
+      "w": 10,
+      "h": 17
+     },
+     "m": null,
+     "props": {
+      "src": "/media/sock-hop-19.jpg",
+      "alt": "Members of St. Paul's laughing together",
+      "fit": "cover",
+      "href": "",
+      "caption": "",
+      "focus": "50% 50%"
+     },
+     "style": {}
+    },
+    {
+     "id": "m0382",
+     "type": "text",
+     "d": {
+      "x": 13,
+      "y": 1,
+      "w": 10,
+      "h": 13
+     },
+     "m": null,
+     "props": {
+      "html": "<h2>Here’s what we’re about</h2><p>We are real people on real journeys through life.</p><p>We don’t do judgement. Everyone is always welcome here.</p><p>We are about meeting you where you are now, so we can all walk together in the future.</p><p>We are about worshipping together, providing refuge from life’s challenges, and uplifting our communities through outreach.</p><p>We are about knowing the love of God in our lives and trying to pass that on to one another.  As long as we try, we can all make the world a better place!</p>"
+     },
+     "style": {}
+    },
+    {
+     "id": "m0383",
+     "type": "button",
+     "d": {
+      "x": 13,
+      "y": 15,
+      "w": 5,
+      "h": 2
+     },
+     "m": null,
+     "props": {
+      "label": "Learn More",
+      "href": "/about",
+      "variant": "primary",
+      "size": "",
+      "align": "left"
+     },
+     "style": {}
+    }
+   ]
+  },
+  {
+   "id": "s0390",
+   "theme": "accent",
+   "blocks": [
+    {
+     "id": "m0385",
+     "type": "text",
+     "d": {
+      "x": 1,
+      "y": 0,
+      "w": 9,
+      "h": 4
+     },
+     "m": null,
+     "props": {
+      "html": "<p class=\"eyebrow\">This week</p><h2>Watch the Latest Sermon</h2>"
+     },
+     "style": {}
+    },
+    {
+     "id": "m0386",
+     "type": "sermons",
+     "d": {
+      "x": 1,
+      "y": 5,
+      "w": 9,
+      "h": 9
+     },
+     "m": null,
+     "props": {
+      "count": 1,
+      "layout": "featured"
+     },
+     "style": {
+      "bg": "white",
+      "color": "dark",
+      "pad": 28,
+      "radius": 12
+     }
+    },
+    {
+     "id": "m0387",
+     "type": "button",
+     "d": {
+      "x": 1,
+      "y": 15,
+      "w": 4,
+      "h": 2
+     },
+     "m": null,
+     "props": {
+      "label": "All Sermons",
+      "href": "/podcast",
+      "variant": "primary",
+      "size": "",
+      "align": "left"
+     },
+     "style": {}
+    },
+    {
+     "id": "m0388",
+     "type": "button",
+     "d": {
+      "x": 5,
+      "y": 15,
+      "w": 5,
+      "h": 2
+     },
+     "m": null,
+     "props": {
+      "label": "Listen on Spotify",
+      "href": "https://open.spotify.com/show/5QKY2vEayubUT6AP5EKXwL",
+      "variant": "outline",
+      "size": "",
+      "align": "left"
+     },
+     "style": {}
+    },
+    {
+     "id": "m0389",
+     "type": "video",
+     "d": {
+      "x": 11,
+      "y": 0,
+      "w": 12,
+      "h": 14
+     },
+     "m": null,
+     "props": {
+      "url": "https://www.youtube.com/embed?list=PL8XgctzrzfqXOeh1NF9EBFxxGHTuHd2ul",
+      "title": "Latest worship service"
+     },
+     "style": {}
+    }
+   ]
+  },
+  {
+   "id": "s0394",
+   "theme": "white",
+   "blocks": [
+    {
+     "id": "m0391",
+     "type": "text",
+     "d": {
+      "x": 3,
+      "y": 0,
+      "w": 18,
+      "h": 3
+     },
+     "m": null,
+     "props": {
+      "html": "<h2>Featured Events</h2>"
+     },
+     "style": {
+      "align": "center"
+     }
+    },
+    {
+     "id": "m0392",
+     "type": "events",
+     "d": {
+      "x": 5,
+      "y": 3,
+      "w": 14,
+      "h": 12
+     },
+     "m": null,
+     "props": {
+      "count": 3,
+      "layout": "cards",
+      "empty": "No upcoming events right now. Check back soon!"
+     },
+     "style": {}
+    },
+    {
+     "id": "m0393",
+     "type": "button",
+     "d": {
+      "x": 9,
+      "y": 16,
+      "w": 6,
+      "h": 2
+     },
+     "m": null,
+     "props": {
+      "label": "View All Events",
+      "href": "/events",
+      "variant": "outline",
+      "size": "",
+      "align": "center"
+     },
+     "style": {}
+    }
+   ]
+  },
+  {
+   "id": "s0397",
+   "theme": "light",
+   "blocks": [
+    {
+     "id": "m0395",
+     "type": "text",
+     "d": {
+      "x": 3,
+      "y": 0,
+      "w": 18,
+      "h": 3
+     },
+     "m": null,
+     "props": {
+      "html": "<h2>Our Ministries</h2>"
+     },
+     "style": {
+      "align": "center"
+     }
+    },
+    {
+     "id": "m0396",
+     "type": "cards",
+     "d": {
+      "x": 1,
+      "y": 3,
+      "w": 22,
+      "h": 20
+     },
+     "m": null,
+     "props": {
+      "cols": 3,
+      "style": "card",
+      "ratio": "4/3",
+      "items": [
+       {
+        "image": "/media/untitled-design-5.jpg",
+        "title": "Children’s Ministry",
+        "html": "<p>It is our privilege to share the love of Jesus with our children in safe, loving, meaningful, and fun ways. To that end, we screen and background check all of our teachers and volunteers.</p>",
+        "label": "Learn More",
+        "href": "/childrens-ministry"
+       },
+       {
+        "image": "/media/img-7411-2.jpg",
+        "title": "Youth Ministry",
+        "html": "<p>Youth are not only the future of our church, but a vital part of our body of faith now.  We work hard to provide a safe place for youth (4th-12th grades) to explore who they are as Christians and develop their own relationship with God.</p>",
+        "label": "Learn More",
+        "href": "/youth-ministry"
+       },
+       {
+        "image": "/media/img-7080.jpg",
+        "title": "Adult Ministry",
+        "html": "<p>Our faith journey doesn’t end when we reach adulthood! We offer many ministries for men, women, seniors, and more to grow in their discipleship.</p>",
+        "label": "Learn More",
+        "href": "/adult-ministry"
+       }
+      ]
+     },
+     "style": {}
+    }
+   ]
+  },
+  {
+   "id": "s0401",
+   "theme": "dark",
+   "blocks": [
+    {
+     "id": "m0398",
+     "type": "text",
+     "d": {
+      "x": 1,
+      "y": 0,
+      "w": 13,
+      "h": 12
+     },
+     "m": null,
+     "props": {
+      "html": "<h2>About The UCC</h2><h3>A Church where all may be one.</h3><p>The United Church of Christ (UCC) is a distinct and diverse community of Christians that come together as one church to join faith and action.  With over 5,000 churches and nearly one million members across the United States, the UCC serves God in the co-creation of a just and sustainable world.</p><p>Since 1957, the United Church of Christ has been the church of firsts, weaving God’s message of hope and extravagant welcome with action for justice and peace. Together, we live out our faith in ways that bring change to our communities.</p>"
+     },
+     "style": {}
+    },
+    {
+     "id": "m0399",
+     "type": "button",
+     "d": {
+      "x": 1,
+      "y": 13,
+      "w": 5,
+      "h": 2
+     },
+     "m": null,
+     "props": {
+      "label": "Learn More",
+      "href": "/about",
+      "variant": "primary",
+      "size": "",
+      "align": "left"
+     },
+     "style": {}
+    },
+    {
+     "id": "m0400",
+     "type": "image",
+     "d": {
+      "x": 16,
+      "y": 2,
+      "w": 6,
+      "h": 9
+     },
+     "m": null,
+     "props": {
+      "src": "/media/ucc-jwfa-logo-white.png",
+      "alt": "United Church of Christ",
+      "fit": "contain",
+      "href": "https://www.ucc.org",
+      "caption": "",
+      "focus": "50% 50%"
+     },
+     "style": {}
+    }
+   ]
+  },
+  {
+   "id": "s0405",
+   "theme": "white",
+   "blocks": [
+    {
+     "id": "m0402",
+     "type": "text",
+     "d": {
+      "x": 3,
+      "y": 0,
+      "w": 18,
+      "h": 5
+     },
+     "m": null,
+     "props": {
+      "html": "<h2>Sermon Podcast</h2><p>Missed a Sunday? Catch up on recent messages.</p>"
+     },
+     "style": {
+      "align": "center"
+     }
+    },
+    {
+     "id": "m0403",
+     "type": "sermons",
+     "d": {
+      "x": 1,
+      "y": 5,
+      "w": 22,
+      "h": 8
+     },
+     "m": null,
+     "props": {
+      "count": 3,
+      "layout": "cards"
+     },
+     "style": {}
+    },
+    {
+     "id": "m0404",
+     "type": "button",
+     "d": {
+      "x": 9,
+      "y": 14,
+      "w": 6,
+      "h": 2
+     },
+     "m": null,
+     "props": {
+      "label": "All Episodes",
+      "href": "/podcast",
+      "variant": "outline",
+      "size": "",
+      "align": "center"
+     },
+     "style": {}
+    }
+   ]
+  },
+  {
+   "id": "s0410",
+   "theme": "accent",
+   "blocks": [
+    {
+     "id": "m0406",
+     "type": "text",
+     "d": {
+      "x": 2,
+      "y": 0,
+      "w": 10,
+      "h": 7
+     },
+     "m": null,
+     "props": {
+      "html": "<h2>Thursday Thread</h2><p>Sign up for our weekly email newsletter and keep up with everything happening at St. Paul’s.</p>"
+     },
+     "style": {}
+    },
+    {
+     "id": "m0407",
+     "type": "button",
+     "d": {
+      "x": 2,
+      "y": 8,
+      "w": 5,
+      "h": 2
+     },
+     "m": null,
+     "props": {
+      "label": "Sign Up",
+      "href": "/contact-us",
+      "variant": "primary",
+      "size": "",
+      "align": "left"
+     },
+     "style": {}
+    },
+    {
+     "id": "m0408",
+     "type": "text",
+     "d": {
+      "x": 14,
+      "y": 0,
+      "w": 9,
+      "h": 5
+     },
+     "m": null,
+     "props": {
+      "html": "<h2>Follow Us</h2><p>See what’s happening this week.</p>"
+     },
+     "style": {}
+    },
+    {
+     "id": "m0409",
+     "type": "social",
+     "d": {
+      "x": 14,
+      "y": 6,
+      "w": 9,
+      "h": 4
+     },
+     "m": null,
+     "props": {
+      "align": "left",
+      "labels": true
+     },
+     "style": {}
+    }
+   ]
+  }
+ ]
+}

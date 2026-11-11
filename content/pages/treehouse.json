@@ -1,0 +1,324 @@
+{
+ "title": "TreeHouse",
+ "slug": "treehouse",
+ "description": "At Treehouse we strive to provide the best childcare experience to families in the Oakville and St. Louis area. Visit our site to learn more about our mission and curriculum.",
+ "sections": [
+  {
+   "id": "s0290",
+   "theme": "accent",
+   "blocks": [
+    {
+     "id": "m0291",
+     "type": "image",
+     "props": {
+      "src": "/media/treehouse-logo-2022.png",
+      "alt": "",
+      "fit": "cover",
+      "href": "",
+      "caption": "",
+      "focus": "50% 50%"
+     },
+     "style": {},
+     "d": {
+      "x": 6,
+      "y": 0,
+      "w": 12,
+      "h": 20
+     },
+     "m": null
+    }
+   ],
+   "bgImage": "/media/treehouse-4.jpg",
+   "bgFocus": "50% 50%",
+   "overlay": "#000000",
+   "overlayOpacity": 60
+  },
+  {
+   "id": "s0292",
+   "theme": "white",
+   "blocks": [
+    {
+     "id": "m0293",
+     "type": "text",
+     "props": {
+      "html": "<h2>Making God’s Difference, putting children first</h2>"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 0,
+      "w": 22,
+      "h": 2
+     },
+     "m": null
+    },
+    {
+     "id": "m0294",
+     "type": "text",
+     "props": {
+      "html": "<p>TreeHouse at St. Paul’s is a Christ-centered daycare and early childhood facility dedicated to providing the best Christian education and childcare to the community of Oakville and the St. Louis area.</p><p>Our staff shows the love of God in all that they do, which is visibly reflected in the classroom. By showing love and a trustworthy attitude, our children learn to love and trust others as well. Our staff accepts children’s angry feelings, understands their fears, and forgives them for their mistakes so each child can learn to handle anger, fear, and guilt. All emotions are a part of life, and we strive to enhance each child’s emotional intelligence while meeting their individual needs.</p><p>Childcare is such a substantial part of you and your child’s day, and our teachers are committed to providing consistent communication and accommodating the needs of busy families. Because of this, TreeHouse has become a tradition for many households in the area. Many children currently enrolled in our program are siblings and, in some cases, children of past students.</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 3,
+      "w": 10,
+      "h": 20
+     },
+     "m": null
+    },
+    {
+     "id": "m0295",
+     "type": "image",
+     "props": {
+      "src": "/media/treehouse-1-5-1.jpg",
+      "alt": "",
+      "fit": "cover",
+      "href": "",
+      "caption": "",
+      "focus": "50% 50%"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 3,
+      "w": 10,
+      "h": 12
+     },
+     "m": null
+    },
+    {
+     "id": "m0296",
+     "type": "text",
+     "props": {
+      "html": "<p><strong>Policies and Inspections</strong></p><p>Our school has an open door policy. You are invited to visit, observe, and to participate at any time. However, please keep in mind that your child will probably behave differently while you are present. Operating as a religious organization, TreeHouse is a License-Exempt Facility. We are inspected annually by the Department of Health, the State Fire Marshall and the Bureau of Child Care. Copies of our inspections are available for review.</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 24,
+      "w": 22,
+      "h": 5
+     },
+     "m": null
+    }
+   ]
+  },
+  {
+   "id": "s0297",
+   "theme": "accent",
+   "blocks": [
+    {
+     "id": "m0298",
+     "type": "text",
+     "props": {
+      "html": "<h2>Learn more about our history, mission, and curriculum</h2>"
+     },
+     "style": {
+      "align": "center"
+     },
+     "d": {
+      "x": 3,
+      "y": 0,
+      "w": 18,
+      "h": 4
+     },
+     "m": null
+    },
+    {
+     "id": "m0299",
+     "type": "button",
+     "props": {
+      "label": "ABOUT TREEHOUSE",
+      "href": "/treehouse/about",
+      "variant": "outline",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 5,
+      "w": 18,
+      "h": 2
+     },
+     "m": null
+    }
+   ],
+   "bgImage": "/media/20211005-100534.jpg",
+   "bgFocus": "50% 50%",
+   "overlay": "#000000",
+   "overlayOpacity": 60
+  },
+  {
+   "id": "s0300",
+   "theme": "white",
+   "blocks": [
+    {
+     "id": "m0301",
+     "type": "image",
+     "props": {
+      "src": "/media/treehouse-2.jpg",
+      "alt": "",
+      "fit": "cover",
+      "href": "",
+      "caption": "",
+      "focus": "50% 50%"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 0,
+      "w": 10,
+      "h": 12
+     },
+     "m": null
+    },
+    {
+     "id": "m0302",
+     "type": "text",
+     "props": {
+      "html": "<h3>Interested in Enrolling?</h3><p>Want to enroll your child at TreeHouse? Visit our enrollment page for more detailed information on tuition, requirements, and forms needed from parents!</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 13,
+      "y": 1,
+      "w": 10,
+      "h": 5
+     },
+     "m": null
+    },
+    {
+     "id": "m0303",
+     "type": "button",
+     "props": {
+      "label": "LEARN MORE",
+      "href": "/treehouse/enroll",
+      "variant": "primary",
+      "size": "",
+      "align": "left"
+     },
+     "style": {},
+     "d": {
+      "x": 13,
+      "y": 7,
+      "w": 10,
+      "h": 2
+     },
+     "m": null
+    }
+   ]
+  },
+  {
+   "id": "s0304",
+   "theme": "light",
+   "blocks": [
+    {
+     "id": "m0305",
+     "type": "text",
+     "props": {
+      "html": "<h2>Our Administrative Staff</h2>"
+     },
+     "style": {
+      "align": "center"
+     },
+     "d": {
+      "x": 2,
+      "y": 0,
+      "w": 20,
+      "h": 3
+     },
+     "m": null
+    },
+    {
+     "id": "m0306",
+     "type": "cards",
+     "props": {
+      "cols": 2,
+      "style": "card",
+      "ratio": "4/3",
+      "items": [
+       {
+        "image": "",
+        "title": "",
+        "html": "",
+        "label": "",
+        "href": "/"
+       },
+       {
+        "image": "/media/img-2392.jpeg",
+        "title": "Nancy Schmitz",
+        "html": "<p>TreeHouse Director</p>",
+        "label": "EMAIL NANCY",
+        "href": "mailto:nancys@sp4u.org?"
+       }
+      ]
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 4,
+      "w": 22,
+      "h": 16
+     },
+     "m": null
+    }
+   ]
+  },
+  {
+   "id": "s0307",
+   "theme": "dark",
+   "blocks": [
+    {
+     "id": "m0308",
+     "type": "text",
+     "props": {
+      "html": "<h2>Contact us</h2><p>Have a question about the TreeHouse program or enrollment? Contact us using the form attached, or call us at <a href=\"callto: #\"><strong>314 894-0079</strong></a><strong></strong></p>"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 0,
+      "w": 10,
+      "h": 5
+     },
+     "m": null
+    },
+    {
+     "id": "m0309",
+     "type": "gform",
+     "props": {
+      "url": "",
+      "label": "Open the form"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 6,
+      "w": 10,
+      "h": 6
+     },
+     "m": null
+    },
+    {
+     "id": "m0310",
+     "type": "map",
+     "props": {
+      "query": "5508 Telegraph Road, St. Louis, MO 63129",
+      "zoom": 14
+     },
+     "style": {},
+     "d": {
+      "x": 14,
+      "y": 2,
+      "w": 8,
+      "h": 12
+     },
+     "m": null
+    }
+   ],
+   "minHeight": 55
+  }
+ ]
+}

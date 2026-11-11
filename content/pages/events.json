@@ -1,0 +1,116 @@
+{
+ "title": "Events",
+ "slug": "events",
+ "description": "Our church events provide you with ways to connect, serve, and honor Christ in the Oakville and St. Louis areas!",
+ "sections": [
+  {
+   "id": "s0164",
+   "theme": "accent",
+   "blocks": [
+    {
+     "id": "m0165",
+     "type": "text",
+     "props": {
+      "html": "<h1>EVENTS</h1><p>Stay connected with the life of St. Paul’s!</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 0,
+      "w": 18,
+      "h": 4
+     },
+     "m": null
+    }
+   ],
+   "bgImage": "/media/img-2553.jpg",
+   "bgFocus": "50% 50%",
+   "overlay": "#000000",
+   "overlayOpacity": 60
+  },
+  {
+   "id": "s0166",
+   "theme": "white",
+   "blocks": [
+    {
+     "id": "m0167",
+     "type": "text",
+     "props": {
+      "html": "<h2>FEATURED EVENTS</h2>"
+     },
+     "style": {
+      "align": "center"
+     },
+     "d": {
+      "x": 3,
+      "y": 0,
+      "w": 18,
+      "h": 2
+     },
+     "m": null
+    },
+    {
+     "id": "m0168",
+     "type": "events",
+     "props": {
+      "count": 3,
+      "layout": "cards",
+      "empty": "No upcoming events right now. Check back soon!"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 3,
+      "w": 18,
+      "h": 12
+     },
+     "m": null
+    }
+   ]
+  },
+  {
+   "id": "s0171",
+   "theme": "dark",
+   "blocks": [
+    {
+     "id": "m0172",
+     "type": "text",
+     "props": {
+      "html": "<h2>OAKVILLE COMMUNITY MARKET AT ST. PAUL’S</h2><p>The Oakville Community Market was created with a vision to bring our community together and support small businesses in the area. The Market takes place every summer, and is located on the campus of St. Paul’s United Church of Christ.</p><p>The Oakville Community Market strives to highlight and promote local artisans, makers, and crafters of handmade goods. You never know what you’ll find each weekend!</p><p>For more information about dates, times, and vendors, check out the Market Facebook page.</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 0,
+      "w": 18,
+      "h": 9
+     },
+     "m": null
+    },
+    {
+     "id": "m0173",
+     "type": "button",
+     "props": {
+      "label": "MARKET FACEBOOK PAGE",
+      "href": "https://www.facebook.com/OakvilleCommunityMarket",
+      "variant": "outline",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 3,
+      "y": 10,
+      "w": 18,
+      "h": 2
+     },
+     "m": null
+    }
+   ],
+   "bgImage": "/media/market-1.jpg",
+   "bgFocus": "50% 50%",
+   "overlay": "#000000",
+   "overlayOpacity": 70
+  }
+ ]
+}

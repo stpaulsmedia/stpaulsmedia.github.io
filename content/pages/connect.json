@@ -1,0 +1,217 @@
+{
+ "title": "Connect",
+ "slug": "connect",
+ "description": "",
+ "sections": [
+  {
+   "id": "s0363",
+   "theme": "white",
+   "blocks": [
+    {
+     "id": "m0364",
+     "type": "image",
+     "props": {
+      "src": "/media/sp-leaf-left-removebg-preview.png",
+      "alt": "",
+      "fit": "cover",
+      "href": "/",
+      "caption": "",
+      "focus": "50% 50%"
+     },
+     "style": {},
+     "d": {
+      "x": 11,
+      "y": 0,
+      "w": 2,
+      "h": 3
+     },
+     "m": null
+    },
+    {
+     "id": "m0365",
+     "type": "text",
+     "props": {
+      "html": "<h2>Welcome to St. Paul’s UCC!</h2><p>We’re glad you decided to join us.</p>"
+     },
+     "style": {
+      "align": "center"
+     },
+     "d": {
+      "x": 6,
+      "y": 3,
+      "w": 12,
+      "h": 5
+     },
+     "m": null
+    },
+    {
+     "id": "m0366",
+     "type": "button",
+     "props": {
+      "label": "Check In",
+      "href": "/check-in",
+      "variant": "primary",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 9,
+      "y": 9,
+      "w": 6,
+      "h": 1
+     },
+     "m": null
+    },
+    {
+     "id": "m0367",
+     "type": "button",
+     "props": {
+      "label": "Live Captions for Services",
+      "href": "https://captionkit.io/c/stpaulsucc",
+      "variant": "primary",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 9,
+      "y": 10,
+      "w": 6,
+      "h": 1
+     },
+     "m": null
+    },
+    {
+     "id": "m0368",
+     "type": "button",
+     "props": {
+      "label": "Upcoming Events",
+      "href": "/events",
+      "variant": "primary",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 9,
+      "y": 12,
+      "w": 6,
+      "h": 1
+     },
+     "m": null
+    },
+    {
+     "id": "m0369",
+     "type": "button",
+     "props": {
+      "label": "Thursday Thread Weekly Email",
+      "href": "/thread",
+      "variant": "primary",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 9,
+      "y": 13,
+      "w": 6,
+      "h": 1
+     },
+     "m": null
+    },
+    {
+     "id": "m0370",
+     "type": "button",
+     "props": {
+      "label": "Give Online",
+      "href": "https://secure.myvanco.com/L-ZCXF/home",
+      "variant": "primary",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 9,
+      "y": 14,
+      "w": 6,
+      "h": 1
+     },
+     "m": null
+    },
+    {
+     "id": "m0371",
+     "type": "button",
+     "props": {
+      "label": "Serve on a team",
+      "href": "/teams",
+      "variant": "primary",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 9,
+      "y": 16,
+      "w": 6,
+      "h": 1
+     },
+     "m": null
+    },
+    {
+     "id": "m0372",
+     "type": "text",
+     "props": {
+      "html": "<p>Event Signup Forms</p>"
+     },
+     "style": {
+      "align": "center"
+     },
+     "d": {
+      "x": 9,
+      "y": 19,
+      "w": 6,
+      "h": 2
+     },
+     "m": null
+    },
+    {
+     "id": "m0373",
+     "type": "button",
+     "props": {
+      "label": "Advent Fest 2026",
+      "href": "https://forms.gle/G9QgqEt47D9HBd1j9",
+      "variant": "primary",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 9,
+      "y": 22,
+      "w": 6,
+      "h": 1
+     },
+     "m": null
+    },
+    {
+     "id": "m0374",
+     "type": "social",
+     "props": {
+      "align": "center",
+      "labels": false
+     },
+     "style": {},
+     "d": {
+      "x": 10,
+      "y": 25,
+      "w": 4,
+      "h": 3
+     },
+     "m": null
+    }
+   ]
+  }
+ ],
+ "hidden": true
+}

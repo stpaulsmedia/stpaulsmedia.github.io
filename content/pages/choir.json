@@ -1,0 +1,172 @@
+{
+ "title": "Choir",
+ "slug": "choir",
+ "description": "",
+ "sections": [
+  {
+   "id": "s0201",
+   "theme": "dark",
+   "blocks": [
+    {
+     "id": "m0202",
+     "type": "text",
+     "props": {
+      "html": "<h1>St. Paul’s UCC Chancel Choir</h1>"
+     },
+     "style": {},
+     "d": {
+      "x": 0,
+      "y": 0,
+      "w": 16,
+      "h": 3
+     },
+     "m": null
+    },
+    {
+     "id": "m0203",
+     "type": "button",
+     "props": {
+      "label": "Sign Up",
+      "href": "mailto:secretary@sp4u.org?subject=Choir&body=Hey%2C%20I'd%20like%20some%20more%20information%20on%20joining%20the%20choir%20please!",
+      "variant": "primary",
+      "size": "",
+      "align": "left"
+     },
+     "style": {},
+     "d": {
+      "x": 0,
+      "y": 3,
+      "w": 4,
+      "h": 3
+     },
+     "m": null
+    }
+   ]
+  },
+  {
+   "id": "s0205",
+   "theme": "accent",
+   "blocks": [
+    {
+     "id": "m0206",
+     "type": "image",
+     "props": {
+      "src": "/media/jean-pretto.jpg",
+      "alt": "",
+      "fit": "cover",
+      "href": "",
+      "caption": "",
+      "focus": "50% 50%"
+     },
+     "style": {},
+     "d": {
+      "x": 0,
+      "y": 0,
+      "w": 12,
+      "h": 22
+     },
+     "m": null
+    },
+    {
+     "id": "m0207",
+     "type": "text",
+     "props": {
+      "html": "<h3>The Choir welcomes people of all skill levels. If you can make a joyful noise, you’re welcome to participate. -Director Jean Pretto</h3>"
+     },
+     "style": {},
+     "d": {
+      "x": 13,
+      "y": 4,
+      "w": 11,
+      "h": 6
+     },
+     "m": null
+    }
+   ],
+   "minHeight": 55
+  },
+  {
+   "id": "s0416",
+   "theme": "white",
+   "blocks": [
+    {
+     "id": "m0411",
+     "type": "text",
+     "d": {
+      "x": 1,
+      "y": 0,
+      "w": 22,
+      "h": 3
+     },
+     "m": null,
+     "props": {
+      "html": "<h2>Christmas Cantatas</h2>"
+     },
+     "style": {}
+    },
+    {
+     "id": "m0412",
+     "type": "video",
+     "d": {
+      "x": 1,
+      "y": 3,
+      "w": 11,
+      "h": 13
+     },
+     "m": null,
+     "props": {
+      "url": "https://www.youtube.com/watch?v=OSlB7B19kZ8",
+      "title": "A Thrill of Hope - 2025 Christmas Cantata"
+     },
+     "style": {}
+    },
+    {
+     "id": "m0413",
+     "type": "text",
+     "d": {
+      "x": 1,
+      "y": 17,
+      "w": 11,
+      "h": 2
+     },
+     "m": null,
+     "props": {
+      "html": "<h4>A Thrill of Hope · Christmas Cantata 2025</h4>"
+     },
+     "style": {}
+    },
+    {
+     "id": "m0414",
+     "type": "video",
+     "d": {
+      "x": 12,
+      "y": 3,
+      "w": 11,
+      "h": 13
+     },
+     "m": null,
+     "props": {
+      "url": "https://www.youtube.com/watch?v=tNDiRPhk4Zo",
+      "title": "Christmas Presence - Cantata 2024"
+     },
+     "style": {}
+    },
+    {
+     "id": "m0415",
+     "type": "text",
+     "d": {
+      "x": 12,
+      "y": 17,
+      "w": 11,
+      "h": 2
+     },
+     "m": null,
+     "props": {
+      "html": "<h4>Christmas Presence · Christmas Cantata 2024</h4>"
+     },
+     "style": {}
+    }
+   ]
+  }
+ ]
+}

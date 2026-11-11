@@ -1,0 +1,257 @@
+{
+ "title": "Outreach",
+ "slug": "outreach",
+ "description": "Learn more about our mission and the ways we're helping serve our community in Oakville  and St. Louis!",
+ "sections": [
+  {
+   "id": "s0174",
+   "theme": "accent",
+   "blocks": [
+    {
+     "id": "m0175",
+     "type": "text",
+     "props": {
+      "html": "<h1>OUTREACH</h1><p>Serving our community in Oakville, the St. Louis area, and beyond</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 0,
+      "w": 22,
+      "h": 4
+     },
+     "m": null
+    }
+   ],
+   "bgImage": "/media/part0-12.jpg",
+   "bgFocus": "50% 50%",
+   "overlay": "#000000",
+   "overlayOpacity": 60
+  },
+  {
+   "id": "s0176",
+   "theme": "white",
+   "blocks": [
+    {
+     "id": "m0177",
+     "type": "text",
+     "props": {
+      "html": "<h2>FEED MY PEOPLE</h2>"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 0,
+      "w": 22,
+      "h": 2
+     },
+     "m": null
+    },
+    {
+     "id": "m0178",
+     "type": "image",
+     "props": {
+      "src": "/media/3.png",
+      "alt": "",
+      "fit": "cover",
+      "href": "",
+      "caption": "",
+      "focus": "50% 50%"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 3,
+      "w": 10,
+      "h": 12
+     },
+     "m": null
+    },
+    {
+     "id": "m0179",
+     "type": "text",
+     "props": {
+      "html": "<p>Feed My People is a local food pantry and thrift store, created in 1982 by Carol and John DeGuire. The organization serves to meet the needs of people facing food insecurity and unemployment in St. Louis county. Feed My People’s mission is to treat each person seeking help with dignity, give them hope for a brighter future, and share the love of God with them.</p><p>While Feed My People focuses mainly on providing food for those who need it, they offer many other services such as job counseling, utility assistance, and clothing vouchers.</p><p>We’re honored to be a featured Church Partner for Feed My People, collaborating with them on many community events such as their annual Manna March. We also collect donations throughout the year in the form of monetary contributions or items that are not easily obtained with food stamps, such as toilet paper, cleaning supplies, and personal hygiene products.</p><p>For more information on Feed My People, visit their website by clicking on the button below!</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 3,
+      "w": 10,
+      "h": 20
+     },
+     "m": null
+    },
+    {
+     "id": "m0180",
+     "type": "button",
+     "props": {
+      "label": "LEARN MORE",
+      "href": "https://www.feed-my-people.org",
+      "variant": "primary",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 24,
+      "w": 10,
+      "h": 2
+     },
+     "m": null
+    }
+   ]
+  },
+  {
+   "id": "s0181",
+   "theme": "light",
+   "blocks": [
+    {
+     "id": "m0182",
+     "type": "text",
+     "props": {
+      "html": "<h2>MISSIONS</h2>"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 0,
+      "w": 22,
+      "h": 2
+     },
+     "m": null
+    },
+    {
+     "id": "m0183",
+     "type": "text",
+     "props": {
+      "html": "<p>We’re committed to building the kingdom of God, which includes uplifting those in need. Our congregation regularly participates in mission trips at home and abroad, in order to provide aid to individuals affected by natural disasters, crisis, and poverty.</p><p>Locally, St. Paul’s participates in the St. Louis Habitat for Humanity program, which builds affordable housing for families in the area. We also partner monthly with Trinity Episcopal Church’s food ministry, where we serve meals for the hungry on their campus. St. Paul’s also provides a free food pantry for people in need who walk through our doors.</p><p>Beyond the St. Louis area, we actively support our national and global community. Our members have been involved in efforts such as rebuilding homes in Hammond, Louisiana for families impacted by Hurricane Ida, and sponsoring community development efforts in Haiti and Sri Lanka.</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 3,
+      "w": 10,
+      "h": 17
+     },
+     "m": null
+    },
+    {
+     "id": "m0184",
+     "type": "image",
+     "props": {
+      "src": "/media/image-asset.jpeg",
+      "alt": "",
+      "fit": "cover",
+      "href": "",
+      "caption": "",
+      "focus": "50% 50%"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 3,
+      "w": 10,
+      "h": 12
+     },
+     "m": null
+    }
+   ]
+  },
+  {
+   "id": "s0185",
+   "theme": "white",
+   "blocks": [
+    {
+     "id": "m0186",
+     "type": "text",
+     "props": {
+      "html": "<h2>VOLUNTEERING @ ST. PAUL’S</h2>"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 0,
+      "w": 22,
+      "h": 2
+     },
+     "m": null
+    },
+    {
+     "id": "m0187",
+     "type": "image",
+     "props": {
+      "src": "/media/tempimage3tdpsz.jpg",
+      "alt": "",
+      "fit": "cover",
+      "href": "",
+      "caption": "",
+      "focus": "50% 50%"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 3,
+      "w": 10,
+      "h": 16
+     },
+     "m": null
+    },
+    {
+     "id": "m0188",
+     "type": "text",
+     "props": {
+      "html": "<p>Volunteers are the most important part of our church - they keep us alive and vibrant! Whether it’s working with kids, helping with weekly services, maintaining our grounds, or even offering to cook a meal for a family in need, there’s so many moving parts that help keep our church running! By volunteering at St. Paul’s, you help us continue to serve as a place of Worship, Refuge, and Outreach at home and abroad.</p><p>For more information about volunteer opportunities at St. Paul’s, click on the button below!</p>"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 3,
+      "w": 10,
+      "h": 10
+     },
+     "m": null
+    },
+    {
+     "id": "m0189",
+     "type": "button",
+     "props": {
+      "label": "VOLUNTEER OPPORTUNITIES",
+      "href": "/volunteer-at-stpauls",
+      "variant": "primary",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 12,
+      "y": 14,
+      "w": 10,
+      "h": 2
+     },
+     "m": null
+    },
+    {
+     "id": "m0190",
+     "type": "button",
+     "props": {
+      "label": "BACK TO HOME",
+      "href": "/",
+      "variant": "outline",
+      "size": "",
+      "align": "center"
+     },
+     "style": {},
+     "d": {
+      "x": 1,
+      "y": 22,
+      "w": 22,
+      "h": 2
+     },
+     "m": null
+    }
+   ]
+  }
+ ]
+}
