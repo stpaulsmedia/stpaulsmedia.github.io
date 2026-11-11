@@ -75,7 +75,7 @@ function history() {
 }
 function restore(hash) {
   if (!/^[0-9a-f]{7,40}$/.test(hash)) throw new Error('Bad version id');
-  git('checkout', hash, '--', 'content');
+  git('restore', '--source=' + hash, '--staged', '--worktree', '--', 'content');   // also removes pages added since that version
   return publish('Restore site to version from ' + (tryGit('log', '-1', '--format=%cd', '--date=format:%b %e, %Y %l:%M %p', hash) || hash.slice(0, 7)));
 }
 
